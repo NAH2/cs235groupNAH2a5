@@ -1,0 +1,10 @@
+<map id="Grid.getGridHeight" name="Grid.getGridHeight">
+<area shape="rect" id="node2" href="$class_file_manager.html#af2190b5e68f210a5b88cfe5a52c5b4eb" title="FileManager.initialiseGrid" alt="" coords="186,65,358,90"/>
+<area shape="rect" id="node8" href="$class_grid.html#adb5dd271dcd96c7016080aabcc41f5d2" title="Grid.toString" alt="" coords="224,114,320,139"/>
+<area shape="rect" id="node9" href="$class_grid.html#ad84cdaa783eaa929fb1a863e1543b54f" title="Grid.main" alt="" coords="232,163,312,189"/>
+<area shape="rect" id="node3" href="$class_loader.html#a562452563e4335d415804f71801fb9df" title="Loader.loadGrid" alt="" coords="406,65,522,90"/>
+<area shape="rect" id="node4" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="576,39,682,65"/>
+<area shape="rect" id="node7" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="572,89,687,114"/>
+<area shape="rect" id="node5" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="736,5,928,43"/>
+<area shape="rect" id="node6" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="736,67,928,93"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GameWindow.getGame" name="GameWindow.getGame">
+<area shape="rect" id="node2" href="$class_game_window.html#a8413cf27b7cd9cbd42556ef2205b3808" title="GameWindow.moveMade" alt="" coords="238,5,412,30"/>
+<area shape="rect" id="node3" href="$class_game_window.html#a6905809e4f757b7ad30c3b1bc0c7a020" title="GameWindow.restart" alt="" coords="252,54,398,79"/>
+<area shape="rect" id="node5" href="$class_game_window.html#adad4147062700e1c850d44b907cad9f5" title="GameWindow.returnMainWindow" alt="" coords="216,103,435,129"/>
+<area shape="rect" id="node4" href="$class_game_window.html#a91765a7f624e9b02f4d6eab2c60c58ca" title="GameWindow.main" alt="" coords="484,54,620,79"/>
+</map>

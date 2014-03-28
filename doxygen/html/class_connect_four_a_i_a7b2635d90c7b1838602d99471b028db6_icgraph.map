@@ -1,0 +1,4 @@
+<map id="ConnectFourAI.setAIMove" name="ConnectFourAI.setAIMove">
+<area shape="rect" id="node2" href="$class_connect_four_a_i.html#af0a837a577259ab72100800b41ef4de8" title="ConnectFourAI.sendMove" alt="" coords="232,5,408,30"/>
+<area shape="rect" id="node3" href="$class_connect_four_a_i.html#a0b941711e15f7164e3fb05dfb2a95b41" title="ConnectFourAI.isYourMove" alt="" coords="456,5,640,30"/>
+</map>

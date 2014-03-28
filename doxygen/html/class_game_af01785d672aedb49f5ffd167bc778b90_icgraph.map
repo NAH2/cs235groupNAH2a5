@@ -1,0 +1,5 @@
+<map id="Game.setTurnCount" name="Game.setTurnCount">
+<area shape="rect" id="node2" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="195,5,362,30"/>
+<area shape="rect" id="node3" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="233,54,324,79"/>
+<area shape="rect" id="node4" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="208,103,350,129"/>
+</map>

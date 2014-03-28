@@ -1,0 +1,6 @@
+<map id="GameWindow.GameWindow" name="GameWindow.GameWindow">
+<area shape="rect" id="node2" href="$class_game_window.html#ae52a05a7767a8ab1421a152169e661f9" title="GameWindow.setGame" alt="" coords="252,5,414,30"/>
+<area shape="rect" id="node3" href="$class_game_window.html#ae2cfa72aa55f57b76ea0c50529cc061f" title="GameWindow.setDrawing" alt="" coords="246,54,421,79"/>
+<area shape="rect" id="node4" href="$class_game_window.html#a324b85abf3c0d19f49b0b085a62c96ab" title="GameWindow.setControls" alt="" coords="246,103,421,129"/>
+<area shape="rect" id="node5" href="$class_game_window.html#a85de2e8616d617ba29d0ce6dce736f43" title="GameWindow.getDrawing" alt="" coords="246,153,421,178"/>
+</map>

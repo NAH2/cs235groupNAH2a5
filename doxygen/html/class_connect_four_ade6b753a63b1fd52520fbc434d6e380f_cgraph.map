@@ -1,0 +1,7 @@
+<map id="ConnectFour.start" name="ConnectFour.start">
+<area shape="rect" id="node2" href="$class_game.html#ac86dd3d4fdba0875b74eda371c5ebb53" title="Game.setWindow" alt="" coords="182,5,309,30"/>
+<area shape="rect" id="node3" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="183,54,308,79"/>
+<area shape="rect" id="node4" href="$class_game.html#a740b019af68514559daa0af8852e64ce" title="Game.getWindow" alt="" coords="182,103,309,129"/>
+<area shape="rect" id="node5" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="183,153,308,178"/>
+<area shape="rect" id="node6" href="$class_game.html#a9c7c15d2d822f81a5e29e7dd3b8b0c05" title="Game.startTimer" alt="" coords="185,202,306,227"/>
+</map>

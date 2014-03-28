@@ -1,0 +1,9 @@
+<map id="FileManager.getGridFile" name="FileManager.getGridFile">
+<area shape="rect" id="node2" href="$class_loader.html#a562452563e4335d415804f71801fb9df" title="Loader.loadGrid" alt="" coords="219,89,335,114"/>
+<area shape="rect" id="node7" href="$class_saver.html#a9c4f0496814e0f50b5e152bd3000f36b" title="Saver.saveGrid" alt="" coords="221,138,334,163"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="390,39,496,65"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="385,89,500,114"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="549,5,742,43"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="549,67,741,93"/>
+<area shape="rect" id="node8" href="$class_saver.html#a4c4573af2773524e176344f1c1a2e58f" title="Saver.saveTest" alt="" coords="387,138,499,163"/>
+</map>

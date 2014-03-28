@@ -1,0 +1,10 @@
+<map id="EndDisplay.EndDisplay" name="EndDisplay.EndDisplay">
+<area shape="rect" id="node2" href="$class_end_display.html#a1982d33df48851a8a7f75aa0de7cbeed" title="EndDisplay.setGame" alt="" coords="223,5,369,30"/>
+<area shape="rect" id="node3" href="$class_game.html#adff9c2e2e5498316e7c4127dccccb14e" title="Game.isWinner" alt="" coords="239,54,353,79"/>
+<area shape="rect" id="node4" href="$class_end_display.html#a35737dd3bed9d2d61157461b10ce8e6f" title="EndDisplay.statsPlayer1" alt="" coords="214,103,378,129"/>
+<area shape="rect" id="node7" href="$class_end_display.html#af08b3e8718260d6b9a4abaa958f38722" title="EndDisplay.statsPlayer2" alt="" coords="214,153,378,178"/>
+<area shape="rect" id="node5" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="444,54,569,79"/>
+<area shape="rect" id="node6" href="$class_game.html#a7748d485839cfcdad79f0e8176b89294" title="Game.getPlayer1Score" alt="" coords="427,103,587,129"/>
+<area shape="rect" id="node8" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="444,153,569,178"/>
+<area shape="rect" id="node9" href="$class_game.html#a4766d5a879b9743f1165a95214e1d8b4" title="Game.getPlayer2Score" alt="" coords="427,202,587,227"/>
+</map>

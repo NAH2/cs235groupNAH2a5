@@ -1,0 +1,6 @@
+<map id="Othello.checkPassTurn" name="Othello.checkPassTurn">
+<area shape="rect" id="node2" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="233,5,338,30"/>
+<area shape="rect" id="node3" href="$class_game.html#aadb9c10589be688691717a5d4976a64f" title="Game.getPlayerTurn" alt="" coords="405,106,550,131"/>
+<area shape="rect" id="node4" href="$class_game.html#aed117408c90e31d9106d99ea0d49391c" title="Game.setPlayerTurn" alt="" coords="213,106,357,131"/>
+<area shape="rect" id="node5" href="$class_othello.html#a467e6ec1ded0faf5af0fc45b85fa31d7" title="Othello.nextPlayer" alt="" coords="220,155,350,181"/>
+</map>

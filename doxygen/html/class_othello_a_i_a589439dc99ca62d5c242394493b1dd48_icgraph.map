@@ -1,0 +1,5 @@
+<map id="OthelloAI.getRun" name="OthelloAI.getRun">
+<area shape="rect" id="node2" href="$class_othello_a_i.html#a94bb5d08865e0ede33da8a953aab3373" title="OthelloAI.sendMove" alt="" coords="176,5,317,30"/>
+<area shape="rect" id="node4" href="$class_othello_a_i.html#a29dac8a68b5ea441147be017ed1c9201" title="OthelloAI.main" alt="" coords="192,54,301,79"/>
+<area shape="rect" id="node3" href="$class_othello_a_i.html#a06f46dd4154fa5486ac131e6b6c300ee" title="OthelloAI.isYourMove" alt="" coords="365,5,515,30"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Saver.saveGrid" name="Saver.saveGrid">
+<area shape="rect" id="node2" href="$class_saver.html#a16e170d9b37a061fda76ce80f5956651" title="Saver.saveData" alt="" coords="190,29,306,54"/>
+<area shape="rect" id="node5" href="$class_file_manager.html#a727c8ee41699c0de5044dcea3ae9f946" title="FileManager.getGridFile" alt="" coords="166,78,330,103"/>
+<area shape="rect" id="node3" href="$class_file_manager.html#abf4a09b55a3b2c1426caa34c44a4682d" title="FileManager.setFile" alt="" coords="379,5,517,30"/>
+<area shape="rect" id="node4" href="$class_file_manager.html#a9e7e81515a0186fc28ea2d03cb22e0f8" title="FileManager.getFile" alt="" coords="379,54,517,79"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ConnectFourLoader.ConnectFourLoader" name="ConnectFourLoader.ConnectFourLoader">
+<area shape="rect" id="node2" href="$class_file_manager.html#a2d83988e3d0dc95ea2c2639ab1512881" title="FileManager.setGame" alt="" coords="245,5,398,30"/>
+<area shape="rect" id="node4" href="$class_file_manager.html#a1a0a44c7a6550757a585339840d2998e" title="FileManager.setPath" alt="" coords="250,54,393,79"/>
+<area shape="rect" id="node3" href="$class_file_manager.html#ad8c3a31718e3b60a9389318ea96b9fd3" title="FileManager.setGridObj" alt="" coords="446,5,608,30"/>
+</map>

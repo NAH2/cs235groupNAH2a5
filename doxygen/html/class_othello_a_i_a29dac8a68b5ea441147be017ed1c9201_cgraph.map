@@ -1,0 +1,8 @@
+<map id="OthelloAI.main" name="OthelloAI.main">
+<area shape="rect" id="node2" href="$class_othello_a_i.html#a59c1363e77154f9f2b503160bd6b6bdb" title="OthelloAI.OthelloAI" alt="" coords="174,5,309,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="183,54,300,79"/>
+<area shape="rect" id="node4" href="$class_player.html#a910852721d6ff894b4cec81e7e0124e1" title="Player.getPlayerName" alt="" coords="164,103,318,129"/>
+<area shape="rect" id="node5" href="$class_player.html#a5024b59d99cf4a0fe6148ba3eaa2ec7c" title="Player.getPlayerColour" alt="" coords="162,153,320,178"/>
+<area shape="rect" id="node6" href="$class_othello_a_i.html#a1ba42933e586a170f8f0841b6fcec35e" title="OthelloAI.getTime" alt="" coords="178,202,305,227"/>
+<area shape="rect" id="node7" href="$class_othello_a_i.html#a589439dc99ca62d5c242394493b1dd48" title="OthelloAI.getRun" alt="" coords="180,251,303,277"/>
+</map>

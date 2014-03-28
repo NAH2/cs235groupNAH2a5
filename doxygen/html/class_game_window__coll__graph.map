@@ -1,0 +1,11 @@
+<map id="GameWindow" name="GameWindow">
+<area shape="rect" id="node2" href="$class_game.html" title="Main control class which processes the overall game logic. " alt="" coords="523,94,579,119"/>
+<area shape="rect" id="node10" href="$class_controls.html" title="Main controls class which controls all the game/user controls. " alt="" coords="36,94,106,119"/>
+<area shape="rect" id="node3" href="$class_grid.html" title="This class contains methods to store information on grid and provides methods to set and get coordina..." alt="" coords="508,195,554,221"/>
+<area shape="rect" id="node5" href="$class_player.html" title="Gets move that returns coordinates. Contains name and colour get/set methods. " alt="" coords="406,195,465,221"/>
+<area shape="rect" id="node6" href="$class_timer.html" title="Timer class, This class implements the count up timer to be used in both game windows. " alt="" coords="659,195,713,221"/>
+<area shape="rect" id="node9" href="$class_coordinate.html" title="Coordinate objects are used to hold information about one individual point in the game board..." alt="" coords="775,195,861,221"/>
+<area shape="rect" id="node8" href="$class_game_board_graphics.html" title="Class which deals with the graphics of the game board. " alt="" coords="410,310,555,335"/>
+<area shape="rect" id="node4" href="$enum_game_1_1_player_turn.html" title="enum to be stored in the grid object as players moves onto the board " alt="" coords="514,6,639,31"/>
+<area shape="rect" id="node7" href="$class_drawing.html" title="Creates and updates the side bar. " alt="" coords="299,398,369,423"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Coordinate.main" name="Coordinate.main">
+<area shape="rect" id="node2" href="$class_coordinate.html#a4e371ae88bda84edd38b0bb7cf133c2e" title="Coordinate.Coordinate" alt="" coords="174,5,330,30"/>
+<area shape="rect" id="node3" href="$class_coordinate.html#a3e70b59ad2786b6d5516caa1c9f9b785" title="Coordinate.getX" alt="" coords="193,54,311,79"/>
+<area shape="rect" id="node4" href="$class_coordinate.html#ab3d9051621f6562dbc892962c63ae751" title="Coordinate.getY" alt="" coords="193,103,311,129"/>
+<area shape="rect" id="node5" href="$class_coordinate.html#ae2f82abf955adfc101ee40da5a50e825" title="Coordinate.getValue" alt="" coords="181,153,323,178"/>
+<area shape="rect" id="node6" href="$class_coordinate.html#a50026aaf6471313e6694e4a3ace3186f" title="Coordinate.within" alt="" coords="190,202,314,227"/>
+</map>

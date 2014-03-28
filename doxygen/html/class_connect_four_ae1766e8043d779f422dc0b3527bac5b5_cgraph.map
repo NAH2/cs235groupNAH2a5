@@ -1,0 +1,4 @@
+<map id="ConnectFour.checkRight" name="ConnectFour.checkRight">
+<area shape="rect" id="node2" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="250,5,355,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#afb5c51674c4d781fb526cf42f819e3c5" title="ConnectFour.setWinner" alt="" coords="222,54,383,79"/>
+</map>

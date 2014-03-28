@@ -1,0 +1,7 @@
+<map id="GameBoardGraphics.paintAvailableMove" name="GameBoardGraphics.paintAvailableMove">
+<area shape="rect" id="node2" href="$class_game_board_graphics.html#ab07f376591a1ba3113f27362300be6e2" title="GameBoardGraphics.getGrid" alt="" coords="330,5,524,30"/>
+<area shape="rect" id="node3" href="$class_game_board_graphics.html#a5688ba216e91bebc70aa8916534d9c67" title="GameBoardGraphics.getSquare\lWidth" alt="" coords="321,54,533,93"/>
+<area shape="rect" id="node4" href="$class_game_board_graphics.html#a65e766a1c4c9b35ed56064eba88e5cde" title="GameBoardGraphics.getSquare\lHeight" alt="" coords="321,117,533,155"/>
+<area shape="rect" id="node5" href="$class_coordinate.html#ae2f82abf955adfc101ee40da5a50e825" title="Coordinate.getValue" alt="" coords="356,179,498,205"/>
+<area shape="rect" id="node6" href="$class_coordinate.html#a3e70b59ad2786b6d5516caa1c9f9b785" title="Coordinate.getX" alt="" coords="368,229,486,254"/>
+</map>

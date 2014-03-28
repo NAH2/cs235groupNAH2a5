@@ -1,0 +1,6 @@
+<map id="Timer.main" name="Timer.main">
+<area shape="rect" id="node2" href="$class_timer.html#ace7628c03cdbb7925d6bd30fff430c0d" title="Timer.Timer" alt="" coords="160,5,251,30"/>
+<area shape="rect" id="node3" href="$class_timer.html#aa696d26e7c70219b1c4018f50833d5db" title="Timer.getHours" alt="" coords="149,54,261,79"/>
+<area shape="rect" id="node4" href="$class_timer.html#a4c902a98e61215618413e8082d622bfb" title="Timer.setRunning" alt="" coords="143,103,268,129"/>
+<area shape="rect" id="node5" href="$class_timer.html#a3500ceb874a712cbb726753edb9e57f9" title="Timer.getSeconds" alt="" coords="141,153,269,178"/>
+</map>

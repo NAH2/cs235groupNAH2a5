@@ -1,0 +1,6 @@
+<map id="Game.startTimer" name="Game.startTimer">
+<area shape="rect" id="node2" href="$class_connect_four.html#ade6b753a63b1fd52520fbc434d6e380f" title="ConnectFour.start" alt="" coords="184,5,312,30"/>
+<area shape="rect" id="node3" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="203,54,293,79"/>
+<area shape="rect" id="node4" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="177,103,319,129"/>
+<area shape="rect" id="node5" href="$class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762" title="Othello.start" alt="" coords="201,153,295,178"/>
+</map>

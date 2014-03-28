@@ -1,0 +1,8 @@
+<map id="Loader.loadPlayer" name="Loader.loadPlayer">
+<area shape="rect" id="node2" href="$class_loader.html#a65253f683d05e0cb6cd3c1c30c990c07" title="Loader.loadPlayer1" alt="" coords="184,39,320,65"/>
+<area shape="rect" id="node7" href="$class_loader.html#a40bc13d7875b6ecf7c2d1c57f19373b7" title="Loader.loadPlayer2" alt="" coords="184,89,320,114"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="374,39,480,65"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="369,89,484,114"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="533,5,726,43"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="533,67,725,93"/>
+</map>

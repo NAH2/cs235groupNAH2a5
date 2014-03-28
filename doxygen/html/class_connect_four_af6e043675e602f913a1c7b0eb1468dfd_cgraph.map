@@ -1,0 +1,9 @@
+<map id="ConnectFour.moveScore" name="ConnectFour.moveScore">
+<area shape="rect" id="node2" href="$class_connect_four.html#aaab9fa44dc9041911a1a4e185160e261" title="ConnectFour.countDown" alt="" coords="251,5,419,30"/>
+<area shape="rect" id="node4" href="$class_game.html#aadb9c10589be688691717a5d4976a64f" title="Game.getPlayerTurn" alt="" coords="262,54,407,79"/>
+<area shape="rect" id="node5" href="$class_connect_four.html#a93492b5f9537ece6801407b4fa8b919e" title="ConnectFour.countDiagonalDown" alt="" coords="224,103,445,129"/>
+<area shape="rect" id="node6" href="$class_connect_four.html#ad99b174b91c9b992ef25c586311969d0" title="ConnectFour.countDiagonalUp" alt="" coords="233,153,437,178"/>
+<area shape="rect" id="node7" href="$class_connect_four.html#a9bcdca0eb37f86975129c38edca756d6" title="ConnectFour.countLeft" alt="" coords="257,202,413,227"/>
+<area shape="rect" id="node8" href="$class_connect_four.html#a17b3f5b6705ef91ef9e31f6a7a7a0622" title="ConnectFour.countRight" alt="" coords="252,251,417,277"/>
+<area shape="rect" id="node3" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="494,153,599,178"/>
+</map>

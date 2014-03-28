@@ -1,0 +1,7 @@
+<map id="Game.setScores" name="Game.setScores">
+<area shape="rect" id="node2" href="$class_game.html#a02c1d3208cc87a7241aaef66f21f9f94" title="Game.setPlayer1Score" alt="" coords="174,5,333,30"/>
+<area shape="rect" id="node3" href="$class_game.html#ac051d5139980ab6a536fe25f7154c903" title="Game.setPlayer2Score" alt="" coords="174,54,333,79"/>
+<area shape="rect" id="node4" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="201,103,306,129"/>
+<area shape="rect" id="node5" href="$class_game.html#a7748d485839cfcdad79f0e8176b89294" title="Game.getPlayer1Score" alt="" coords="173,153,333,178"/>
+<area shape="rect" id="node6" href="$class_game.html#a4766d5a879b9743f1165a95214e1d8b4" title="Game.getPlayer2Score" alt="" coords="173,202,333,227"/>
+</map>

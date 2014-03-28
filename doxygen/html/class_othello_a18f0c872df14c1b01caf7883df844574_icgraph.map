@@ -1,0 +1,4 @@
+<map id="Othello.availableMove" name="Othello.availableMove">
+<area shape="rect" id="node2" href="$class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762" title="Othello.start" alt="" coords="387,5,480,30"/>
+<area shape="rect" id="node3" href="$class_othello.html#a1196eda85897856737995ee39e1c5e33" title="Othello.resetGame" alt="" coords="205,30,339,55"/>
+</map>

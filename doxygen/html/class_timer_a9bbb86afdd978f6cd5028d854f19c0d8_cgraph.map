@@ -1,0 +1,5 @@
+<map id="Timer.toString" name="Timer.toString">
+<area shape="rect" id="node2" href="$class_timer.html#aa696d26e7c70219b1c4018f50833d5db" title="Timer.getHours" alt="" coords="165,5,277,30"/>
+<area shape="rect" id="node3" href="$class_timer.html#a60a7bb2ac6b4e1dcd1fe27cd6033ccd4" title="Timer.getMinutes" alt="" coords="160,54,283,79"/>
+<area shape="rect" id="node4" href="$class_timer.html#a3500ceb874a712cbb726753edb9e57f9" title="Timer.getSeconds" alt="" coords="157,103,285,129"/>
+</map>

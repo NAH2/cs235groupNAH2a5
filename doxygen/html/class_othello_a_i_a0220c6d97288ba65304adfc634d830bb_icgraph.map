@@ -1,0 +1,4 @@
+<map id="OthelloAI.setAIMove" name="OthelloAI.setAIMove">
+<area shape="rect" id="node2" href="$class_othello_a_i.html#a94bb5d08865e0ede33da8a953aab3373" title="OthelloAI.sendMove" alt="" coords="197,5,339,30"/>
+<area shape="rect" id="node3" href="$class_othello_a_i.html#a06f46dd4154fa5486ac131e6b6c300ee" title="OthelloAI.isYourMove" alt="" coords="387,5,536,30"/>
+</map>

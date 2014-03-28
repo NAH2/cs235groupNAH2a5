@@ -1,0 +1,5 @@
+<map id="OthelloSaver.OthelloSaver" name="OthelloSaver.OthelloSaver">
+<area shape="rect" id="node2" href="$class_file_manager.html#a1a0a44c7a6550757a585339840d2998e" title="FileManager.setPath" alt="" coords="240,5,384,30"/>
+<area shape="rect" id="node3" href="$class_file_manager.html#a817e093eb9ce1e381b39cfe34beefe02" title="FileManager.createDirs" alt="" coords="232,54,392,79"/>
+<area shape="rect" id="node4" href="$class_file_manager.html#a43a091aa78ffb4a933deb5a2300e3ce7" title="FileManager.getPath" alt="" coords="440,54,584,79"/>
+</map>

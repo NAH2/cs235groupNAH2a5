@@ -1,0 +1,7 @@
+<map id="FileManager.setGridObj" name="FileManager.setGridObj">
+<area shape="rect" id="node2" href="$class_file_manager.html#a2d83988e3d0dc95ea2c2639ab1512881" title="FileManager.setGame" alt="" coords="216,102,368,127"/>
+<area shape="rect" id="node3" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="416,5,608,43"/>
+<area shape="rect" id="node4" href="$class_connect_four_saver.html#a0b887958bed0380d6f3d960986c9ec07" title="ConnectFourSaver.Connect\lFourSaver" alt="" coords="419,67,605,106"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="416,130,608,155"/>
+<area shape="rect" id="node6" href="$class_othello_saver.html#a4f2ce153b69285e7483d174794d7d61c" title="OthelloSaver.OthelloSaver" alt="" coords="423,179,601,205"/>
+</map>

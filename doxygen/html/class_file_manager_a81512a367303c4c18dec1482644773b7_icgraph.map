@@ -1,0 +1,9 @@
+<map id="FileManager.getPlayer1File" name="FileManager.getPlayer1File">
+<area shape="rect" id="node2" href="$class_loader.html#a65253f683d05e0cb6cd3c1c30c990c07" title="Loader.loadPlayer1" alt="" coords="237,89,373,114"/>
+<area shape="rect" id="node7" href="$class_saver.html#a61938f79f656ebe2dfd00dc7baeb1b2e" title="Saver.savePlayer1" alt="" coords="239,138,372,163"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="427,39,533,65"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="422,89,538,114"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="586,5,779,43"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="587,67,779,93"/>
+<area shape="rect" id="node8" href="$class_saver.html#a4c4573af2773524e176344f1c1a2e58f" title="Saver.saveTest" alt="" coords="424,138,536,163"/>
+</map>

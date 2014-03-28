@@ -1,0 +1,7 @@
+<map id="ConnectFourSaver.ConnectFourSaver" name="ConnectFourSaver.ConnectFourSaver">
+<area shape="rect" id="node2" href="$class_file_manager.html#a2d83988e3d0dc95ea2c2639ab1512881" title="FileManager.setGame" alt="" coords="244,5,396,30"/>
+<area shape="rect" id="node4" href="$class_file_manager.html#a1a0a44c7a6550757a585339840d2998e" title="FileManager.setPath" alt="" coords="248,54,392,79"/>
+<area shape="rect" id="node5" href="$class_file_manager.html#a817e093eb9ce1e381b39cfe34beefe02" title="FileManager.createDirs" alt="" coords="240,103,400,129"/>
+<area shape="rect" id="node3" href="$class_file_manager.html#ad8c3a31718e3b60a9389318ea96b9fd3" title="FileManager.setGridObj" alt="" coords="448,5,610,30"/>
+<area shape="rect" id="node6" href="$class_file_manager.html#a43a091aa78ffb4a933deb5a2300e3ce7" title="FileManager.getPath" alt="" coords="457,103,602,129"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GameBoardControls.GameBoardControls" name="GameBoardControls.GameBoardControls">
+<area shape="rect" id="node2" href="$class_game_board_controls.html#a3bfd7e686b1d14179af8ee9330eed5e9" title="GameBoardControls.setCell\lWidth" alt="" coords="286,5,474,43"/>
+<area shape="rect" id="node3" href="$class_game_board_controls.html#af2ac317caad73874f9a9aa1a271f79a7" title="GameBoardControls.setCell\lHeight" alt="" coords="286,67,474,106"/>
+<area shape="rect" id="node4" href="$class_game_board_controls.html#a493a140c1921e483f71086d47479d0ce" title="GameBoardControls.setControls" alt="" coords="273,130,487,155"/>
+</map>

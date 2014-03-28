@@ -1,0 +1,10 @@
+<map id="GameBoardGraphics.getSquareWidth" name="GameBoardGraphics.getSquareWidth">
+<area shape="rect" id="node2" href="$class_game_board_graphics.html#a8925d69b10390270ef699960ec9d0707" title="GameBoardGraphics.GameBoard\lGraphics" alt="" coords="289,5,511,43"/>
+<area shape="rect" id="node3" href="$class_game_board_graphics.html#a7a0e4d5f56f5b18bb032359a6a100d3e" title="GameBoardGraphics.paintComponent" alt="" coords="581,217,829,242"/>
+<area shape="rect" id="node4" href="$class_game_board_graphics.html#a64a24da460979b54ce35b21b0d49751c" title="GameBoardGraphics.paintOthello\lBoard" alt="" coords="289,119,511,158"/>
+<area shape="rect" id="node5" href="$class_game_board_graphics.html#a1b4acf5e211a02e35a7a6a683be2f05d" title="GameBoardGraphics.paintBoard\lPiece" alt="" coords="293,182,507,221"/>
+<area shape="rect" id="node6" href="$class_game_board_graphics.html#aa8eb6629fb3909cf660ac7107ba41f63" title="GameBoardGraphics.paintAvailableMove" alt="" coords="267,245,533,270"/>
+<area shape="rect" id="node7" href="$class_game_board_graphics.html#a661473f3d3868f55d327f216fe3504c3" title="GameBoardGraphics.paintFall" alt="" coords="300,294,500,319"/>
+<area shape="rect" id="node8" href="$class_game_board_graphics.html#abfa30642e29a31b6deaa4fec4f7c33d3" title="GameBoardGraphics.paintFlip" alt="" coords="300,343,500,369"/>
+<area shape="rect" id="node9" href="$class_game_board_graphics.html#a5dbb3a76dfc41816a74e8f5cf9d8a27a" title="GameBoardGraphics.mouseMoved" alt="" coords="285,393,515,418"/>
+</map>

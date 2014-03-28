@@ -1,0 +1,6 @@
+<map id="ConnectFour.main" name="ConnectFour.main">
+<area shape="rect" id="node2" href="$class_connect_four.html#ab81ec37caa2bf116ae1a12b633df079a" title="ConnectFour.ConnectFour" alt="" coords="184,5,363,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a910852721d6ff894b4cec81e7e0124e1" title="Player.getPlayerName" alt="" coords="196,54,350,79"/>
+<area shape="rect" id="node4" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="215,103,332,129"/>
+<area shape="rect" id="node5" href="$class_player.html#a5024b59d99cf4a0fe6148ba3eaa2ec7c" title="Player.getPlayerColour" alt="" coords="194,153,352,178"/>
+</map>

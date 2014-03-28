@@ -1,0 +1,15 @@
+<map id="Game.resumeGame" name="Game.resumeGame">
+<area shape="rect" id="node2" href="$class_game.html#ac86dd3d4fdba0875b74eda371c5ebb53" title="Game.setWindow" alt="" coords="206,54,333,79"/>
+<area shape="rect" id="node3" href="$class_game.html#a0a2c62570275204b7144f26f8cd133f2" title="Game.setScores" alt="" coords="209,103,330,129"/>
+<area shape="rect" id="node9" href="$class_game.html#a740b019af68514559daa0af8852e64ce" title="Game.getWindow" alt="" coords="206,153,333,178"/>
+<area shape="rect" id="node10" href="$class_game.html#af01785d672aedb49f5ffd167bc778b90" title="Game.setTurnCount" alt="" coords="199,202,340,227"/>
+<area shape="rect" id="node11" href="$class_game.html#aadb9c10589be688691717a5d4976a64f" title="Game.getPlayerTurn" alt="" coords="197,251,342,277"/>
+<area shape="rect" id="node12" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="207,301,332,326"/>
+<area shape="rect" id="node13" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="207,350,332,375"/>
+<area shape="rect" id="node14" href="$class_game.html#a9c7c15d2d822f81a5e29e7dd3b8b0c05" title="Game.startTimer" alt="" coords="209,399,330,425"/>
+<area shape="rect" id="node4" href="$class_game.html#a02c1d3208cc87a7241aaef66f21f9f94" title="Game.setPlayer1Score" alt="" coords="390,5,549,30"/>
+<area shape="rect" id="node5" href="$class_game.html#ac051d5139980ab6a536fe25f7154c903" title="Game.setPlayer2Score" alt="" coords="390,54,549,79"/>
+<area shape="rect" id="node6" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="417,103,522,129"/>
+<area shape="rect" id="node7" href="$class_game.html#a7748d485839cfcdad79f0e8176b89294" title="Game.getPlayer1Score" alt="" coords="389,153,549,178"/>
+<area shape="rect" id="node8" href="$class_game.html#a4766d5a879b9743f1165a95214e1d8b4" title="Game.getPlayer2Score" alt="" coords="389,202,549,227"/>
+</map>

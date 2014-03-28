@@ -1,0 +1,5 @@
+<map id="Loader" name="Loader">
+<area shape="rect" id="node3" href="$class_connect_four_loader.html" title="Class to set file paths for the Loading of ConnectFour. " alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node4" href="$class_othello_loader.html" title="Class to set file paths for the Loading of Othello. " alt="" coords="169,155,273,181"/>
+<area shape="rect" id="node2" href="$class_file_manager.html" title="Class to handle the locations of individual files. " alt="" coords="100,6,195,31"/>
+</map>

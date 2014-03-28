@@ -1,0 +1,5 @@
+<map id="Saver" name="Saver">
+<area shape="rect" id="node3" href="$class_connect_four_saver.html" title="Class to set file paths for the Saving of ConnectFour. " alt="" coords="4,155,136,181"/>
+<area shape="rect" id="node4" href="$class_othello_saver.html" title="Class to set file paths for the Saving of Othello. " alt="" coords="161,155,259,181"/>
+<area shape="rect" id="node2" href="$class_file_manager.html" title="Class to handle the locations of individual files. " alt="" coords="92,6,187,31"/>
+</map>

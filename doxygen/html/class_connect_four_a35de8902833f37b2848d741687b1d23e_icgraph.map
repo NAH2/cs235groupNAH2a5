@@ -1,0 +1,5 @@
+<map id="ConnectFour.getWinner" name="ConnectFour.getWinner">
+<area shape="rect" id="node2" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="223,5,363,30"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#af28277a7170ca2e23e6db63a42488d31" title="ConnectFour.isWinner" alt="" coords="217,54,370,79"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="419,5,586,30"/>
+</map>

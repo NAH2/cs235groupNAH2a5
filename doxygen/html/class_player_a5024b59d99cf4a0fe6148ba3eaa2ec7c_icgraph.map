@@ -1,0 +1,6 @@
+<map id="Player.getPlayerColour" name="Player.getPlayerColour">
+<area shape="rect" id="node2" href="$class_connect_four.html#a4a16b78d8a87dbc3e83b7931acc24fe6" title="ConnectFour.main" alt="" coords="218,5,348,30"/>
+<area shape="rect" id="node3" href="$class_connect_four_a_i.html#a7e3a8c1c4f982bf036c0aa3443a489df" title="ConnectFourAI.main" alt="" coords="211,54,354,79"/>
+<area shape="rect" id="node4" href="$class_othello_a_i.html#a29dac8a68b5ea441147be017ed1c9201" title="OthelloAI.main" alt="" coords="228,103,337,129"/>
+<area shape="rect" id="node5" href="$class_player.html#aa9e1a689ebd0700ec2453d31007e86bb" title="Player.toString" alt="" coords="229,153,337,178"/>
+</map>

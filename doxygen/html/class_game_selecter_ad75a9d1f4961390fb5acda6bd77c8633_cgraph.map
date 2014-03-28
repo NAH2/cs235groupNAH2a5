@@ -1,0 +1,8 @@
+<map id="GameSelecter.GameSelecter" name="GameSelecter.GameSelecter">
+<area shape="rect" id="node2" href="$class_game_selecter.html#abe0e942ab1794a9eb86a45390c43c9da" title="GameSelecter.setChooseFrame" alt="" coords="249,5,461,30"/>
+<area shape="rect" id="node3" href="$class_game_selecter.html#af2fc400dc167fd102081a8deee5c09fe" title="GameSelecter.getChooseFrame" alt="" coords="248,54,461,79"/>
+<area shape="rect" id="node4" href="$class_game_selecter.html#a79989814c2e0915dd8c7b1cbcb39dba2" title="GameSelecter.setConnect4\lButton" alt="" coords="262,103,447,142"/>
+<area shape="rect" id="node5" href="$class_game_selecter.html#a11470cd122cbb9f60818ee7faf4579e5" title="GameSelecter.setOthelloButton" alt="" coords="251,166,459,191"/>
+<area shape="rect" id="node6" href="$class_game_selecter.html#ad46eb7e4a6747b0611db766e1c24b640" title="GameSelecter.getConnect4\lButton" alt="" coords="262,215,447,254"/>
+<area shape="rect" id="node7" href="$class_game_selecter.html#a14531c1f75c665503c87e89dec2d8472" title="GameSelecter.getOthelloButton" alt="" coords="250,278,459,303"/>
+</map>

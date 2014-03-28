@@ -1,0 +1,5 @@
+<map id="GameBoardGraphics.main" name="GameBoardGraphics.main">
+<area shape="rect" id="node2" href="$class_game_board_graphics.html#a65bb9a1cfd25989653083fd5ed8a7d74" title="GameBoardGraphics.getXSquares" alt="" coords="233,5,460,30"/>
+<area shape="rect" id="node3" href="$class_game_board_graphics.html#abbd7f46ca01983516ec9bd5357d77313" title="GameBoardGraphics.SetSpeed" alt="" coords="242,54,451,79"/>
+<area shape="rect" id="node4" href="$class_game_board_graphics.html#a529571b636797913b32b90afbda238ab" title="GameBoardGraphics.SetValid" alt="" coords="247,103,446,129"/>
+</map>

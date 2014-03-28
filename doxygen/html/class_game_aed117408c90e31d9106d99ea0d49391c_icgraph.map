@@ -1,0 +1,5 @@
+<map id="Game.setPlayerTurn" name="Game.setPlayerTurn">
+<area shape="rect" id="node2" href="$class_connect_four.html#a5c6dd92d8fc772c9610f0a9dce72964c" title="ConnectFour.resetGame" alt="" coords="198,5,365,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="198,54,365,79"/>
+<area shape="rect" id="node4" href="$class_othello.html#a5f583d6e9a1b1a10ee8959ddb91b8ee8" title="Othello.checkPassTurn" alt="" coords="202,103,361,129"/>
+</map>

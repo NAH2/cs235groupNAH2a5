@@ -1,0 +1,10 @@
+<map id="ConnectFourAI.isYourMove" name="ConnectFourAI.isYourMove">
+<area shape="rect" id="node2" href="$class_player.html#a62c211d0f67c07a5e295379265a36f3e" title="Player.setYourTurn" alt="" coords="484,27,618,53"/>
+<area shape="rect" id="node3" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="932,78,1049,103"/>
+<area shape="rect" id="node4" href="$class_connect_four_a_i.html#af0a837a577259ab72100800b41ef4de8" title="ConnectFourAI.sendMove" alt="" coords="237,145,413,170"/>
+<area shape="rect" id="node5" href="$class_connect_four_a_i.html#a273764563aace55b504ec6033901c049" title="ConnectFourAI.getRun" alt="" coords="472,269,630,294"/>
+<area shape="rect" id="node6" href="$class_connect_four_a_i.html#a1dd991b5e242b145d4edbad87dd641cf" title="ConnectFourAI.getTime" alt="" coords="469,318,632,343"/>
+<area shape="rect" id="node7" href="$class_connect_four_a_i.html#a7b2635d90c7b1838602d99471b028db6" title="ConnectFourAI.setAIMove" alt="" coords="462,145,640,170"/>
+<area shape="rect" id="node9" href="$class_player.html#a44a92a86c17460a7732d4b0ff40b3dcd" title="Player.getYourTurn" alt="" coords="923,189,1058,214"/>
+<area shape="rect" id="node8" href="$class_connect_four_a_i.html#aaacd32a210a91e0610252811f387d2b5" title="ConnectFourAI.getAvailable\lMoves" alt="" coords="688,154,875,193"/>
+</map>

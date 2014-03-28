@@ -1,0 +1,18 @@
+<map id="Drawing.main" name="Drawing.main">
+<area shape="rect" id="node2" href="$class_drawing.html#af56f382d829fc3b44f09267f667b79e6" title="Drawing.Drawing" alt="" coords="157,129,280,154"/>
+<area shape="rect" id="node3" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="345,5,450,30"/>
+<area shape="rect" id="node4" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="335,54,460,79"/>
+<area shape="rect" id="node5" href="$class_drawing.html#a5b39b4507f3192648816c1dfdc89f4cd" title="Drawing.setPlayer1" alt="" coords="329,103,466,129"/>
+<area shape="rect" id="node8" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="335,251,460,277"/>
+<area shape="rect" id="node9" href="$class_drawing.html#a0ebe996f63e9a4b3608855ee62766e8e" title="Drawing.setPlayer2" alt="" coords="329,153,466,178"/>
+<area shape="rect" id="node12" href="$class_drawing.html#a3df9e1c4f0059fc6f5b6cfb763ca6557" title="Drawing.setLayout" alt="" coords="331,202,463,227"/>
+<area shape="rect" id="node6" href="$class_drawing.html#a685f2869665c0538815a58757df5eaf5" title="Drawing.getPlayer1Name" alt="" coords="515,103,688,129"/>
+<area shape="rect" id="node7" href="$class_drawing.html#ae1ec9940bb3d0b23ac6e367788a08e9b" title="Drawing.getPlayer1Piece" alt="" coords="516,54,687,79"/>
+<area shape="rect" id="node10" href="$class_drawing.html#a7a64516189af689f1c12550cf04499f1" title="Drawing.getPlayer2Name" alt="" coords="515,202,688,227"/>
+<area shape="rect" id="node11" href="$class_drawing.html#af76bdfd154af64b839b6246f8117114a" title="Drawing.getPlayer2Piece" alt="" coords="516,153,687,178"/>
+<area shape="rect" id="node13" href="$class_drawing.html#a43d83bb95c6b6371d80ed14b3e406b06" title="Drawing.getBarPlayer1" alt="" coords="522,350,681,375"/>
+<area shape="rect" id="node14" href="$class_drawing.html#a3ce70734ec49c13a9570bc0edf1347ab" title="Drawing.getBarPlayer2" alt="" coords="522,399,681,425"/>
+<area shape="rect" id="node15" href="$class_drawing.html#aab675c8efd34a6e58749fca7cc8782d5" title="Drawing.getPlayer1Score" alt="" coords="515,449,688,474"/>
+<area shape="rect" id="node16" href="$class_drawing.html#a6d5e1f6c1940fca82e67cc2429878d9a" title="Drawing.getPlayer2Score" alt="" coords="515,251,688,277"/>
+<area shape="rect" id="node17" href="$class_drawing.html#a5a22d32c2428e05276aa7e897aee3125" title="Drawing.getTurnsTaken" alt="" coords="521,301,682,326"/>
+</map>

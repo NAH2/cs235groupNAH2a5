@@ -1,0 +1,5 @@
+<map id="ConnectFour.checkDown" name="ConnectFour.checkDown">
+<area shape="rect" id="node2" href="$class_connect_four.html#a195f59a6d466ec51f7daf4d6cc4d4a2d" title="ConnectFour.checkWinner" alt="" coords="224,5,403,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="451,5,591,30"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="640,5,808,30"/>
+</map>

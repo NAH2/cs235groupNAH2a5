@@ -1,0 +1,7 @@
+<map id="Saver.saveData" name="Saver.saveData">
+<area shape="rect" id="node2" href="$class_saver.html#a9c4f0496814e0f50b5e152bd3000f36b" title="Saver.saveGrid" alt="" coords="181,5,294,30"/>
+<area shape="rect" id="node4" href="$class_saver.html#a61938f79f656ebe2dfd00dc7baeb1b2e" title="Saver.savePlayer1" alt="" coords="171,54,304,79"/>
+<area shape="rect" id="node5" href="$class_saver.html#ad39cb1f309e7d51ede9d51ec82b442ff" title="Saver.savePlayer2" alt="" coords="171,103,304,129"/>
+<area shape="rect" id="node6" href="$class_saver.html#a4ddbcb98d4818eb4be04761a88ee617a" title="Saver.saveTimer" alt="" coords="177,153,298,178"/>
+<area shape="rect" id="node3" href="$class_saver.html#a4c4573af2773524e176344f1c1a2e58f" title="Saver.saveTest" alt="" coords="352,79,464,105"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Loader.loadTimer" name="Loader.loadTimer">
+<area shape="rect" id="node2" href="$class_file_manager.html#abf4a09b55a3b2c1426caa34c44a4682d" title="FileManager.setFile" alt="" coords="196,5,334,30"/>
+<area shape="rect" id="node3" href="$class_file_manager.html#a430e33be9a7b7066900b2ecc54d13ba4" title="FileManager.getTimerFile" alt="" coords="179,54,351,79"/>
+<area shape="rect" id="node4" href="$class_file_manager.html#a9e7e81515a0186fc28ea2d03cb22e0f8" title="FileManager.getFile" alt="" coords="196,103,335,129"/>
+<area shape="rect" id="node5" href="$class_file_manager.html#af0c1d5a8ef7817c3750d322f9253d66a" title="FileManager.setTimer" alt="" coords="190,153,340,178"/>
+<area shape="rect" id="node6" href="$class_file_manager.html#aee2de58ca7cc190ed81d9e9231ea6b69" title="FileManager.getGame" alt="" coords="189,202,342,227"/>
+<area shape="rect" id="node7" href="$class_file_manager.html#afe3718bc396940c14121042a6e0fd9d9" title="FileManager.getTimer" alt="" coords="190,251,341,277"/>
+</map>

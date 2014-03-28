@@ -1,0 +1,9 @@
+<map id="Game.getPlayer1Score" name="Game.getPlayer1Score">
+<area shape="rect" id="node2" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="214,5,381,30"/>
+<area shape="rect" id="node3" href="$class_end_display.html#a35737dd3bed9d2d61157461b10ce8e6f" title="EndDisplay.statsPlayer1" alt="" coords="215,54,380,79"/>
+<area shape="rect" id="node5" href="$class_game.html#a0a2c62570275204b7144f26f8cd133f2" title="Game.setScores" alt="" coords="237,103,358,129"/>
+<area shape="rect" id="node7" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="252,153,343,178"/>
+<area shape="rect" id="node8" href="$class_othello.html#a2b0e9c99d9b99cb43d97206692419bb8" title="Othello.isWinner" alt="" coords="238,202,357,227"/>
+<area shape="rect" id="node4" href="$class_end_display.html#a0a5c0c6bdc43247e6a83ed2a71b208d8" title="EndDisplay.EndDisplay" alt="" coords="430,54,589,79"/>
+<area shape="rect" id="node6" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="438,103,580,129"/>
+</map>

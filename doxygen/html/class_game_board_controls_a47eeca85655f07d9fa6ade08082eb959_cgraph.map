@@ -1,0 +1,6 @@
+<map id="GameBoardControls.mouseClicked" name="GameBoardControls.mouseClicked">
+<area shape="rect" id="node2" href="$class_game_board_controls.html#a9f5aea9119c886f3190ae3d888a8808a" title="GameBoardControls.getCell\lWidth" alt="" coords="299,5,487,43"/>
+<area shape="rect" id="node3" href="$class_game_board_controls.html#a2af7dcd139393931885625304bffb4ee" title="GameBoardControls.getCell\lHeight" alt="" coords="299,67,487,106"/>
+<area shape="rect" id="node4" href="$class_controls.html#a7f656d5a273d887a701f372f8de42ae3" title="Controls.getGameWindow" alt="" coords="305,130,482,155"/>
+<area shape="rect" id="node5" href="$class_game_board_controls.html#a73fe6110e2153d937b34408d45a3891b" title="GameBoardControls.getControls" alt="" coords="286,179,501,205"/>
+</map>

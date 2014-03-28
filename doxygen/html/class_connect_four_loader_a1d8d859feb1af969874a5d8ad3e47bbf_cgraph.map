@@ -1,0 +1,29 @@
+<map id="ConnectFourLoader.ConnectFourLoader" name="ConnectFourLoader.ConnectFourLoader">
+<area shape="rect" id="node2" href="$class_file_manager.html#a2d83988e3d0dc95ea2c2639ab1512881" title="FileManager.setGame" alt="" coords="245,198,398,223"/>
+<area shape="rect" id="node4" href="$class_file_manager.html#a1a0a44c7a6550757a585339840d2998e" title="FileManager.setPath" alt="" coords="250,247,393,273"/>
+<area shape="rect" id="node5" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="268,298,374,323"/>
+<area shape="rect" id="node3" href="$class_file_manager.html#ad8c3a31718e3b60a9389318ea96b9fd3" title="FileManager.setGridObj" alt="" coords="446,197,608,222"/>
+<area shape="rect" id="node6" href="$class_loader.html#a562452563e4335d415804f71801fb9df" title="Loader.loadGrid" alt="" coords="690,102,806,127"/>
+<area shape="rect" id="node14" href="$class_loader.html#a65253f683d05e0cb6cd3c1c30c990c07" title="Loader.loadPlayer1" alt="" coords="459,298,595,323"/>
+<area shape="rect" id="node21" href="$class_loader.html#a40bc13d7875b6ecf7c2d1c57f19373b7" title="Loader.loadPlayer2" alt="" coords="459,499,595,525"/>
+<area shape="rect" id="node25" href="$class_loader.html#acfbc6b4372bb87369ff6d5c6c0c07875" title="Loader.loadTimer" alt="" coords="686,349,810,374"/>
+<area shape="rect" id="node7" href="$class_file_manager.html#af2190b5e68f210a5b88cfe5a52c5b4eb" title="FileManager.initialiseGrid" alt="" coords="889,54,1060,79"/>
+<area shape="rect" id="node9" href="$class_file_manager.html#abf4a09b55a3b2c1426caa34c44a4682d" title="FileManager.setFile" alt="" coords="906,203,1044,229"/>
+<area shape="rect" id="node10" href="$class_file_manager.html#a727c8ee41699c0de5044dcea3ae9f946" title="FileManager.getGridFile" alt="" coords="893,103,1056,129"/>
+<area shape="rect" id="node11" href="$class_file_manager.html#a9e7e81515a0186fc28ea2d03cb22e0f8" title="FileManager.getFile" alt="" coords="905,253,1044,278"/>
+<area shape="rect" id="node12" href="$class_file_manager.html#ae1844f0ab49e4b1d75d7164664b06025" title="FileManager.getGridObj" alt="" coords="893,153,1056,178"/>
+<area shape="rect" id="node13" href="$class_file_manager.html#a944b3156e2fb20ea319ed3579af5a581" title="FileManager.setGridArray" alt="" coords="888,5,1061,30"/>
+<area shape="rect" id="node8" href="$class_grid.html#ac9266d2617b92b3d5c50aeb51477e8e9" title="Grid.getGridHeight" alt="" coords="1110,54,1242,79"/>
+<area shape="rect" id="node15" href="$class_loader.html#a2ed9116d4872beeb7a80b05e1c3a6aa8" title="Loader.loadPlayer" alt="" coords="684,299,812,325"/>
+<area shape="rect" id="node16" href="$class_file_manager.html#a81512a367303c4c18dec1482644773b7" title="FileManager.getPlayer1File" alt="" coords="656,151,840,177"/>
+<area shape="rect" id="node17" href="$class_file_manager.html#ad81b9a1236473beeb1b839399425929b" title="FileManager.setPlayer1" alt="" coords="667,201,829,226"/>
+<area shape="rect" id="node18" href="$class_loader.html#a5d8114bb34fedf5265ff6b6a5d06f7bb" title="Loader.createPlayerType" alt="" coords="663,450,833,475"/>
+<area shape="rect" id="node19" href="$class_file_manager.html#aee2de58ca7cc190ed81d9e9231ea6b69" title="FileManager.getGame" alt="" coords="898,450,1051,475"/>
+<area shape="rect" id="node20" href="$class_file_manager.html#a6069090a13b7565a97c9bf13f848e9dc" title="FileManager.getPlayer1" alt="" coords="667,250,829,275"/>
+<area shape="rect" id="node22" href="$class_file_manager.html#a833cc42234ccbfa627fa770b0142b84e" title="FileManager.getPlayer2File" alt="" coords="656,499,840,525"/>
+<area shape="rect" id="node23" href="$class_file_manager.html#aab6317d1312dbeb49f405bd42173adff" title="FileManager.setPlayer2" alt="" coords="667,601,829,626"/>
+<area shape="rect" id="node24" href="$class_file_manager.html#a99233e06fbebfecee81b45e7f5085b7d" title="FileManager.getPlayer2" alt="" coords="667,650,829,675"/>
+<area shape="rect" id="node26" href="$class_file_manager.html#a430e33be9a7b7066900b2ecc54d13ba4" title="FileManager.getTimerFile" alt="" coords="889,302,1061,327"/>
+<area shape="rect" id="node27" href="$class_file_manager.html#af0c1d5a8ef7817c3750d322f9253d66a" title="FileManager.setTimer" alt="" coords="900,351,1050,377"/>
+<area shape="rect" id="node28" href="$class_file_manager.html#afe3718bc396940c14121042a6e0fd9d9" title="FileManager.getTimer" alt="" coords="899,401,1050,426"/>
+</map>

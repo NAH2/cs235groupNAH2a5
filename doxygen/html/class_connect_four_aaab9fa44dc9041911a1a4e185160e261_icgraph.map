@@ -1,0 +1,4 @@
+<map id="ConnectFour.countDown" name="ConnectFour.countDown">
+<area shape="rect" id="node2" href="$class_connect_four.html#af6e043675e602f913a1c7b0eb1468dfd" title="ConnectFour.moveScore" alt="" coords="233,5,402,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a20da939c02af53d725d379f1b6ca4c6d" title="ConnectFour.blockOpponent\lChecker" alt="" coords="222,54,413,93"/>
+</map>

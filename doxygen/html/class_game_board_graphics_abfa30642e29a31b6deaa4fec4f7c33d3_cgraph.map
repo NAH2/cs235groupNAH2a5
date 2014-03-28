@@ -1,0 +1,6 @@
+<map id="GameBoardGraphics.paintFlip" name="GameBoardGraphics.paintFlip">
+<area shape="rect" id="node2" href="$class_coordinate.html#a3e70b59ad2786b6d5516caa1c9f9b785" title="Coordinate.getX" alt="" coords="304,5,422,30"/>
+<area shape="rect" id="node3" href="$class_game_board_graphics.html#a5688ba216e91bebc70aa8916534d9c67" title="GameBoardGraphics.getSquare\lWidth" alt="" coords="257,54,469,93"/>
+<area shape="rect" id="node4" href="$class_game_board_graphics.html#a65e766a1c4c9b35ed56064eba88e5cde" title="GameBoardGraphics.getSquare\lHeight" alt="" coords="257,117,469,155"/>
+<area shape="rect" id="node5" href="$class_coordinate.html#ae2f82abf955adfc101ee40da5a50e825" title="Coordinate.getValue" alt="" coords="292,179,434,205"/>
+</map>

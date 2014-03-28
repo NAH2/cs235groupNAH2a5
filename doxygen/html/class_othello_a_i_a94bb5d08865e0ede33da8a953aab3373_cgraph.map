@@ -1,0 +1,9 @@
+<map id="OthelloAI.sendMove" name="OthelloAI.sendMove">
+<area shape="rect" id="node2" href="$class_othello_a_i.html#a589439dc99ca62d5c242394493b1dd48" title="OthelloAI.getRun" alt="" coords="205,5,328,30"/>
+<area shape="rect" id="node3" href="$class_othello_a_i.html#a1ba42933e586a170f8f0841b6fcec35e" title="OthelloAI.getTime" alt="" coords="203,54,330,79"/>
+<area shape="rect" id="node4" href="$class_othello_a_i.html#a0220c6d97288ba65304adfc634d830bb" title="OthelloAI.setAIMove" alt="" coords="195,155,338,181"/>
+<area shape="rect" id="node6" href="$class_player.html#a44a92a86c17460a7732d4b0ff40b3dcd" title="Player.getYourTurn" alt="" coords="627,130,762,155"/>
+<area shape="rect" id="node7" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="636,206,753,231"/>
+<area shape="rect" id="node8" href="$class_player.html#a62c211d0f67c07a5e295379265a36f3e" title="Player.setYourTurn" alt="" coords="200,307,334,333"/>
+<area shape="rect" id="node5" href="$class_othello_a_i.html#ac09ff8146b18dc67035ea7b1bdee6ec5" title="OthelloAI.getAvailableMoves" alt="" coords="387,155,578,181"/>
+</map>

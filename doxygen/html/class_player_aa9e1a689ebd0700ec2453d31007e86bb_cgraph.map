@@ -1,0 +1,5 @@
+<map id="Player.toString" name="Player.toString">
+<area shape="rect" id="node2" href="$class_player.html#a910852721d6ff894b4cec81e7e0124e1" title="Player.getPlayerName" alt="" coords="164,5,318,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a5024b59d99cf4a0fe6148ba3eaa2ec7c" title="Player.getPlayerColour" alt="" coords="162,54,320,79"/>
+<area shape="rect" id="node4" href="$class_player.html#a44a92a86c17460a7732d4b0ff40b3dcd" title="Player.getYourTurn" alt="" coords="174,103,309,129"/>
+</map>

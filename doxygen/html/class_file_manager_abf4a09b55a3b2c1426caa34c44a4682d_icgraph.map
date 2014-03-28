@@ -1,0 +1,17 @@
+<map id="FileManager.setFile" name="FileManager.setFile">
+<area shape="rect" id="node2" href="$class_loader.html#a562452563e4335d415804f71801fb9df" title="Loader.loadGrid" alt="" coords="381,5,497,30"/>
+<area shape="rect" id="node7" href="$class_loader.html#a2ed9116d4872beeb7a80b05e1c3a6aa8" title="Loader.loadPlayer" alt="" coords="193,102,322,127"/>
+<area shape="rect" id="node10" href="$class_loader.html#acfbc6b4372bb87369ff6d5c6c0c07875" title="Loader.loadTimer" alt="" coords="376,153,501,178"/>
+<area shape="rect" id="node11" href="$class_saver.html#a16e170d9b37a061fda76ce80f5956651" title="Saver.saveData" alt="" coords="200,251,315,277"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="560,103,666,129"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="556,54,671,79"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="720,69,912,107"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="720,131,912,157"/>
+<area shape="rect" id="node8" href="$class_loader.html#a65253f683d05e0cb6cd3c1c30c990c07" title="Loader.loadPlayer1" alt="" coords="371,54,507,79"/>
+<area shape="rect" id="node9" href="$class_loader.html#a40bc13d7875b6ecf7c2d1c57f19373b7" title="Loader.loadPlayer2" alt="" coords="371,103,507,129"/>
+<area shape="rect" id="node12" href="$class_saver.html#a9c4f0496814e0f50b5e152bd3000f36b" title="Saver.saveGrid" alt="" coords="382,202,495,227"/>
+<area shape="rect" id="node14" href="$class_saver.html#a61938f79f656ebe2dfd00dc7baeb1b2e" title="Saver.savePlayer1" alt="" coords="372,251,505,277"/>
+<area shape="rect" id="node15" href="$class_saver.html#ad39cb1f309e7d51ede9d51ec82b442ff" title="Saver.savePlayer2" alt="" coords="372,301,505,326"/>
+<area shape="rect" id="node16" href="$class_saver.html#a4ddbcb98d4818eb4be04761a88ee617a" title="Saver.saveTimer" alt="" coords="378,350,499,375"/>
+<area shape="rect" id="node13" href="$class_saver.html#a4c4573af2773524e176344f1c1a2e58f" title="Saver.saveTest" alt="" coords="557,277,669,302"/>
+</map>

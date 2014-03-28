@@ -1,0 +1,4 @@
+<map id="Drawing.setSpeed" name="Drawing.setSpeed">
+<area shape="rect" id="node2" href="$class_game_board_graphics.html#abbdedb44fc8cc19472de6e9c49e7486f" title="GameBoardGraphics.GetPlayer1" alt="" coords="185,5,402,30"/>
+<area shape="rect" id="node3" href="$class_game_board_graphics.html#ab109ac92d8d625e0b345cac25e24016e" title="GameBoardGraphics.GetPlayer2" alt="" coords="185,54,402,79"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Player.setYourTurn" name="Player.setYourTurn">
+<area shape="rect" id="node2" href="$class_a_i_easy.html#a51731031041709ae58de54991ac87d0a" title="AIEasy.isYourMove" alt="" coords="435,20,570,45"/>
+<area shape="rect" id="node3" href="$class_a_i_easy.html#ab3da7fcddf8d8badf8301b209cb99bff" title="AIEasy.sendMove" alt="" coords="211,45,339,70"/>
+<area shape="rect" id="node4" href="$class_connect_four_a_i.html#a0b941711e15f7164e3fb05dfb2a95b41" title="ConnectFourAI.isYourMove" alt="" coords="411,121,595,146"/>
+<area shape="rect" id="node5" href="$class_connect_four_a_i.html#af0a837a577259ab72100800b41ef4de8" title="ConnectFourAI.sendMove" alt="" coords="187,146,363,172"/>
+<area shape="rect" id="node6" href="$class_human.html#ad110a2d987b4b31aa89548468466d35a" title="Human.isYourMove" alt="" coords="206,196,343,221"/>
+<area shape="rect" id="node7" href="$class_human.html#a75842b8609e8c4dd8984a8c421362627" title="Human.sendMove" alt="" coords="210,245,339,270"/>
+<area shape="rect" id="node8" href="$class_othello_a_i.html#a06f46dd4154fa5486ac131e6b6c300ee" title="OthelloAI.isYourMove" alt="" coords="428,321,577,346"/>
+<area shape="rect" id="node9" href="$class_othello_a_i.html#a94bb5d08865e0ede33da8a953aab3373" title="OthelloAI.sendMove" alt="" coords="204,346,345,372"/>
+</map>

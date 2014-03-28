@@ -1,0 +1,12 @@
+<map id="Othello.isValidMove" name="Othello.isValidMove">
+<area shape="rect" id="node2" href="$class_othello.html#a016e30c87d5aa6d08187d5789c3dd3f3" title="Othello.debug" alt="" coords="404,5,508,30"/>
+<area shape="rect" id="node3" href="$class_coordinate.html#a3e70b59ad2786b6d5516caa1c9f9b785" title="Coordinate.getX" alt="" coords="204,247,322,273"/>
+<area shape="rect" id="node4" href="$class_coordinate.html#ab3d9051621f6562dbc892962c63ae751" title="Coordinate.getY" alt="" coords="204,297,322,322"/>
+<area shape="rect" id="node5" href="$class_coordinate.html#ae2f82abf955adfc101ee40da5a50e825" title="Coordinate.getValue" alt="" coords="385,54,527,79"/>
+<area shape="rect" id="node6" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="403,301,509,326"/>
+<area shape="rect" id="node7" href="$class_othello.html#a6d766156bbde4a602770fac98ab8761e" title="Othello.checkBound" alt="" coords="192,146,333,171"/>
+<area shape="rect" id="node8" href="$class_coordinate.html#a50026aaf6471313e6694e4a3ace3186f" title="Coordinate.within" alt="" coords="394,153,518,178"/>
+<area shape="rect" id="node9" href="$class_coordinate.html#aa034c3f2cf1e2fbb76a53c25f658e7d8" title="Coordinate.isEmpty" alt="" coords="387,202,525,227"/>
+<area shape="rect" id="node10" href="$class_coordinate.html#a6d4b38ef364835f7b953feb4835da251" title="Coordinate.notEquals" alt="" coords="381,251,531,277"/>
+<area shape="rect" id="node11" href="$class_coordinate.html#ab3dc9994af5dfbbb3027385ebaf22743" title="Coordinate.equals" alt="" coords="391,103,521,129"/>
+</map>

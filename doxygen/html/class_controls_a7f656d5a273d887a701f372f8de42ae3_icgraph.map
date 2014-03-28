@@ -1,0 +1,5 @@
+<map id="Controls.getGameWindow" name="Controls.getGameWindow">
+<area shape="rect" id="node2" href="$class_controls.html#a5e1c89d620d709912347eed2f1dfa890" title="Controls.Controls" alt="" coords="286,5,410,30"/>
+<area shape="rect" id="node3" href="$class_controls.html#aeb1e173edfa49b6b20b02c86d3fc5f45" title="Controls.moveMade" alt="" coords="278,54,418,79"/>
+<area shape="rect" id="node4" href="$class_game_board_controls.html#a47eeca85655f07d9fa6ade08082eb959" title="GameBoardControls.mouseClicked" alt="" coords="233,103,463,129"/>
+</map>

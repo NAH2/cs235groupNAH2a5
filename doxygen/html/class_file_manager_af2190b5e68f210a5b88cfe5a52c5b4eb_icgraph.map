@@ -1,0 +1,7 @@
+<map id="FileManager.initialiseGrid" name="FileManager.initialiseGrid">
+<area shape="rect" id="node2" href="$class_loader.html#a562452563e4335d415804f71801fb9df" title="Loader.loadGrid" alt="" coords="225,65,341,90"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="395,39,501,65"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="390,89,506,114"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="554,5,747,43"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="555,67,747,93"/>
+</map>

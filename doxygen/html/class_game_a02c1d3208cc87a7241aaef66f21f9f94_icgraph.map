@@ -1,0 +1,6 @@
+<map id="Game.setPlayer1Score" name="Game.setPlayer1Score">
+<area shape="rect" id="node2" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="214,5,381,30"/>
+<area shape="rect" id="node3" href="$class_game.html#a0a2c62570275204b7144f26f8cd133f2" title="Game.setScores" alt="" coords="237,54,358,79"/>
+<area shape="rect" id="node5" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="252,103,343,129"/>
+<area shape="rect" id="node4" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="430,54,572,79"/>
+</map>

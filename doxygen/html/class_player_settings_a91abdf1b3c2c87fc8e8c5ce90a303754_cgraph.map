@@ -1,0 +1,11 @@
+<map id="PlayerSettings.PlayerSettings" name="PlayerSettings.PlayerSettings">
+<area shape="rect" id="node2" href="$class_player_settings.html#a20ef623b0ca0c1ac042edc35e3da115c" title="PlayerSettings.windowInitialise" alt="" coords="252,29,455,54"/>
+<area shape="rect" id="node7" href="$class_player_settings.html#a9f2fc18b190978f91b992ad756ca7e90" title="PlayerSettings.buttonGroups" alt="" coords="257,78,449,103"/>
+<area shape="rect" id="node8" href="$class_player_settings.html#abfd44e4033cc8abf88bfd13c6ebfebe1" title="PlayerSettings.listeners" alt="" coords="273,127,434,153"/>
+<area shape="rect" id="node9" href="$class_player_settings.html#af8c1bcdb658ebe3431e8fcf63491487e" title="PlayerSettings.listeners\lPlayers" alt="" coords="273,177,434,215"/>
+<area shape="rect" id="node10" href="$class_player_settings.html#a1428040abcc3dd4a46b7304754473022" title="PlayerSettings.listeners\lControls" alt="" coords="273,239,434,278"/>
+<area shape="rect" id="node3" href="$class_player_settings.html#a669d382925f687e20d7a60171632fb8d" title="PlayerSettings.player1Panel" alt="" coords="504,5,693,30"/>
+<area shape="rect" id="node5" href="$class_player_settings.html#a6b06c7db0879c147094a2ce248186c93" title="PlayerSettings.player2Panel" alt="" coords="504,54,693,79"/>
+<area shape="rect" id="node4" href="$class_player_settings.html#aea9516afc20be45a5c16f71796b3d229" title="PlayerSettings.optionsPlayer1" alt="" coords="742,5,941,30"/>
+<area shape="rect" id="node6" href="$class_player_settings.html#aca42a825ae20c130971c032c3babbef2" title="PlayerSettings.optionsPlayer2" alt="" coords="742,54,941,79"/>
+</map>

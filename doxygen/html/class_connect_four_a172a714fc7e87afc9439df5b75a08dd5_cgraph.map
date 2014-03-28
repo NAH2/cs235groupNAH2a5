@@ -1,0 +1,30 @@
+<map id="ConnectFour.moveMade" name="ConnectFour.moveMade">
+<area shape="rect" id="node2" href="$class_game.html#a8a4248909453d1d210764fedcc3e23a0" title="Game.validateMove" alt="" coords="234,5,374,30"/>
+<area shape="rect" id="node4" href="$class_game.html#a740b019af68514559daa0af8852e64ce" title="Game.getWindow" alt="" coords="460,54,588,79"/>
+<area shape="rect" id="node5" href="$class_connect_four.html#a44f71c4bc0d795274d1b85152fc53215" title="ConnectFour.takeMove" alt="" coords="224,207,384,233"/>
+<area shape="rect" id="node6" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="962,346,1067,371"/>
+<area shape="rect" id="node8" href="$class_game.html#a02c1d3208cc87a7241aaef66f21f9f94" title="Game.setPlayer1Score" alt="" coords="224,358,384,383"/>
+<area shape="rect" id="node9" href="$class_game.html#ac051d5139980ab6a536fe25f7154c903" title="Game.setPlayer2Score" alt="" coords="224,407,384,433"/>
+<area shape="rect" id="node10" href="$class_game.html#a7748d485839cfcdad79f0e8176b89294" title="Game.getPlayer1Score" alt="" coords="224,457,384,482"/>
+<area shape="rect" id="node11" href="$class_game.html#a4766d5a879b9743f1165a95214e1d8b4" title="Game.getPlayer2Score" alt="" coords="224,506,384,531"/>
+<area shape="rect" id="node12" href="$class_game.html#aed117408c90e31d9106d99ea0d49391c" title="Game.setPlayerTurn" alt="" coords="232,555,376,581"/>
+<area shape="rect" id="node13" href="$class_connect_four.html#ad2e1e300dcf0633844557c3d07d1402f" title="ConnectFour.nextPlayer" alt="" coords="222,657,386,682"/>
+<area shape="rect" id="node14" href="$class_game.html#aadb9c10589be688691717a5d4976a64f" title="Game.getPlayerTurn" alt="" coords="452,631,596,657"/>
+<area shape="rect" id="node15" href="$class_game.html#af01785d672aedb49f5ffd167bc778b90" title="Game.setTurnCount" alt="" coords="233,706,375,731"/>
+<area shape="rect" id="node16" href="$class_game.html#aeda9fda68d5d3cfe7b594f65021bf005" title="Game.getTurnCount" alt="" coords="702,270,845,295"/>
+<area shape="rect" id="node17" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="234,309,374,334"/>
+<area shape="rect" id="node27" href="$class_connect_four.html#a0c43ce6315421ae9a7f4a0968c0058b1" title="ConnectFour.emptyWin" alt="" coords="224,755,384,781"/>
+<area shape="rect" id="node28" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="241,805,367,830"/>
+<area shape="rect" id="node29" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="241,854,367,879"/>
+<area shape="rect" id="node3" href="$class_game.html#ad60abd6154089ee896099a5493a160ea" title="Game.isValidMove" alt="" coords="458,5,590,30"/>
+<area shape="rect" id="node7" href="$class_coordinate.html#a3e70b59ad2786b6d5516caa1c9f9b785" title="Coordinate.getX" alt="" coords="465,207,583,233"/>
+<area shape="rect" id="node18" href="$class_connect_four.html#a195f59a6d466ec51f7daf4d6cc4d4a2d" title="ConnectFour.checkWinner" alt="" coords="435,457,613,482"/>
+<area shape="rect" id="node24" href="$class_connect_four.html#a35de8902833f37b2848d741687b1d23e" title="ConnectFour.getWinner" alt="" coords="443,358,605,383"/>
+<area shape="rect" id="node25" href="$class_game.html#a328fadfbaf7feb5eb2f3f1666fa23dc1" title="Game.getTimer" alt="" coords="467,309,581,334"/>
+<area shape="rect" id="node26" href="$class_connect_four.html#ac2bc41d2083599b62aead9a8a05f46e8" title="ConnectFour.validMove" alt="" coords="443,407,605,433"/>
+<area shape="rect" id="node19" href="$class_connect_four.html#ae1766e8043d779f422dc0b3527bac5b5" title="ConnectFour.checkRight" alt="" coords="690,431,857,457"/>
+<area shape="rect" id="node21" href="$class_connect_four.html#a7b30221d4094ad6ecb29f2a665de27d5" title="ConnectFour.checkDown" alt="" coords="688,481,858,506"/>
+<area shape="rect" id="node22" href="$class_connect_four.html#aacaa49a151c863b1e498a000fa84bea3" title="ConnectFour.checkDiagonalUp" alt="" coords="670,382,876,407"/>
+<area shape="rect" id="node23" href="$class_connect_four.html#aa959e914b7ed1553d77115b733f26666" title="ConnectFour.checkDiagonalDown" alt="" coords="662,333,885,358"/>
+<area shape="rect" id="node20" href="$class_connect_four.html#afb5c51674c4d781fb526cf42f819e3c5" title="ConnectFour.setWinner" alt="" coords="934,419,1095,445"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Drawing.setLayout" name="Drawing.setLayout">
+<area shape="rect" id="node2" href="$class_drawing.html#a43d83bb95c6b6371d80ed14b3e406b06" title="Drawing.getBarPlayer1" alt="" coords="194,5,353,30"/>
+<area shape="rect" id="node3" href="$class_drawing.html#a3ce70734ec49c13a9570bc0edf1347ab" title="Drawing.getBarPlayer2" alt="" coords="194,54,353,79"/>
+<area shape="rect" id="node4" href="$class_drawing.html#a685f2869665c0538815a58757df5eaf5" title="Drawing.getPlayer1Name" alt="" coords="187,103,360,129"/>
+<area shape="rect" id="node5" href="$class_drawing.html#aab675c8efd34a6e58749fca7cc8782d5" title="Drawing.getPlayer1Score" alt="" coords="187,153,360,178"/>
+<area shape="rect" id="node6" href="$class_drawing.html#ae1ec9940bb3d0b23ac6e367788a08e9b" title="Drawing.getPlayer1Piece" alt="" coords="188,202,359,227"/>
+<area shape="rect" id="node7" href="$class_drawing.html#a7a64516189af689f1c12550cf04499f1" title="Drawing.getPlayer2Name" alt="" coords="187,251,360,277"/>
+<area shape="rect" id="node8" href="$class_drawing.html#a6d5e1f6c1940fca82e67cc2429878d9a" title="Drawing.getPlayer2Score" alt="" coords="187,301,360,326"/>
+<area shape="rect" id="node9" href="$class_drawing.html#af76bdfd154af64b839b6246f8117114a" title="Drawing.getPlayer2Piece" alt="" coords="188,350,359,375"/>
+<area shape="rect" id="node10" href="$class_drawing.html#a5a22d32c2428e05276aa7e897aee3125" title="Drawing.getTurnsTaken" alt="" coords="193,399,354,425"/>
+</map>

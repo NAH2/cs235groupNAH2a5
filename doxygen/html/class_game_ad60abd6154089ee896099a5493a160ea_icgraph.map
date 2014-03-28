@@ -1,0 +1,4 @@
+<map id="Game.isValidMove" name="Game.isValidMove">
+<area shape="rect" id="node2" href="$class_game.html#a8a4248909453d1d210764fedcc3e23a0" title="Game.validateMove" alt="" coords="187,5,327,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="376,5,544,30"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ConnectFourAI.main" name="ConnectFourAI.main">
+<area shape="rect" id="node2" href="$class_connect_four_a_i.html#ad03757211ef55e4963f13d2c8523d657" title="ConnectFourAI.ConnectFourAI" alt="" coords="198,5,402,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="242,54,358,79"/>
+<area shape="rect" id="node4" href="$class_player.html#a910852721d6ff894b4cec81e7e0124e1" title="Player.getPlayerName" alt="" coords="223,103,377,129"/>
+<area shape="rect" id="node5" href="$class_player.html#a5024b59d99cf4a0fe6148ba3eaa2ec7c" title="Player.getPlayerColour" alt="" coords="221,153,379,178"/>
+<area shape="rect" id="node6" href="$class_connect_four_a_i.html#a1dd991b5e242b145d4edbad87dd641cf" title="ConnectFourAI.getTime" alt="" coords="219,202,381,227"/>
+<area shape="rect" id="node7" href="$class_connect_four_a_i.html#a273764563aace55b504ec6033901c049" title="ConnectFourAI.getRun" alt="" coords="221,251,379,277"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Human.sendMove" name="Human.sendMove">
+<area shape="rect" id="node2" href="$class_player.html#a44a92a86c17460a7732d4b0ff40b3dcd" title="Player.getYourTurn" alt="" coords="185,5,319,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a62c211d0f67c07a5e295379265a36f3e" title="Player.setYourTurn" alt="" coords="185,54,319,79"/>
+<area shape="rect" id="node4" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="194,103,310,129"/>
+</map>

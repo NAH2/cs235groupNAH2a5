@@ -1,0 +1,15 @@
+<map id="Othello.isOver" name="Othello.isOver">
+<area shape="rect" id="node2" href="$class_othello.html#aa7c43e571f3296a5a879aa5d3f5e67c8" title="Othello.isAnyValidMove" alt="" coords="161,178,322,203"/>
+<area shape="rect" id="node8" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="769,5,874,30"/>
+<area shape="rect" id="node14" href="$class_game.html#a328fadfbaf7feb5eb2f3f1666fa23dc1" title="Game.getTimer" alt="" coords="185,227,298,253"/>
+<area shape="rect" id="node3" href="$class_othello.html#a016e30c87d5aa6d08187d5789c3dd3f3" title="Othello.debug" alt="" coords="769,305,874,330"/>
+<area shape="rect" id="node4" href="$class_othello.html#aab434fb21cd96f00f9813bb0526616be" title="Othello.isValidMove" alt="" coords="371,178,509,203"/>
+<area shape="rect" id="node5" href="$class_coordinate.html#a3e70b59ad2786b6d5516caa1c9f9b785" title="Coordinate.getX" alt="" coords="569,254,687,279"/>
+<area shape="rect" id="node6" href="$class_coordinate.html#ab3d9051621f6562dbc892962c63ae751" title="Coordinate.getY" alt="" coords="569,103,687,129"/>
+<area shape="rect" id="node7" href="$class_coordinate.html#ae2f82abf955adfc101ee40da5a50e825" title="Coordinate.getValue" alt="" coords="750,251,892,277"/>
+<area shape="rect" id="node9" href="$class_othello.html#a6d766156bbde4a602770fac98ab8761e" title="Othello.checkBound" alt="" coords="558,153,698,178"/>
+<area shape="rect" id="node10" href="$class_coordinate.html#a50026aaf6471313e6694e4a3ace3186f" title="Coordinate.within" alt="" coords="759,153,884,178"/>
+<area shape="rect" id="node11" href="$class_coordinate.html#aa034c3f2cf1e2fbb76a53c25f658e7d8" title="Coordinate.isEmpty" alt="" coords="752,202,890,227"/>
+<area shape="rect" id="node12" href="$class_coordinate.html#a6d4b38ef364835f7b953feb4835da251" title="Coordinate.notEquals" alt="" coords="747,54,896,79"/>
+<area shape="rect" id="node13" href="$class_coordinate.html#ab3dc9994af5dfbbb3027385ebaf22743" title="Coordinate.equals" alt="" coords="757,103,886,129"/>
+</map>

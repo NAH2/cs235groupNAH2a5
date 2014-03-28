@@ -1,0 +1,5 @@
+<map id="Player.Player" name="Player.Player">
+<area shape="rect" id="node2" href="$class_player.html#a69027d2f9889a85b40b79f08e33f6879" title="Player.setGame" alt="" coords="175,5,291,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a7c3dc622b21709521cd42ae604d12830" title="Player.setPlayerName" alt="" coords="157,54,310,79"/>
+<area shape="rect" id="node4" href="$class_player.html#abe24dfe8da3f5af5d107aad23a2f1c64" title="Player.setPlayerColour" alt="" coords="155,103,312,129"/>
+</map>

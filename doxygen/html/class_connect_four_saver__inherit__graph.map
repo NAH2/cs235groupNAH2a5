@@ -1,0 +1,4 @@
+<map id="ConnectFourSaver" name="ConnectFourSaver">
+<area shape="rect" id="node2" href="$class_saver.html" title="Class to handle saving data to files. " alt="" coords="43,81,99,106"/>
+<area shape="rect" id="node3" href="$class_file_manager.html" title="Class to handle the locations of individual files. " alt="" coords="23,6,117,31"/>
+</map>

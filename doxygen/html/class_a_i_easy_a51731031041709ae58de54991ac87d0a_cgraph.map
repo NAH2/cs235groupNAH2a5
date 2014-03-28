@@ -1,0 +1,8 @@
+<map id="AIEasy.isYourMove" name="AIEasy.isYourMove">
+<area shape="rect" id="node2" href="$class_player.html#a62c211d0f67c07a5e295379265a36f3e" title="Player.setYourTurn" alt="" coords="366,20,500,45"/>
+<area shape="rect" id="node3" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="776,69,893,95"/>
+<area shape="rect" id="node4" href="$class_a_i_easy.html#ab3da7fcddf8d8badf8301b209cb99bff" title="AIEasy.sendMove" alt="" coords="189,71,317,96"/>
+<area shape="rect" id="node5" href="$class_a_i_easy.html#a540dfbb0d651a054dc8ac244f9d3a4f3" title="AIEasy.setAIMove" alt="" coords="369,69,498,95"/>
+<area shape="rect" id="node7" href="$class_player.html#a44a92a86c17460a7732d4b0ff40b3dcd" title="Player.getYourTurn" alt="" coords="366,119,501,144"/>
+<area shape="rect" id="node6" href="$class_a_i_easy.html#a629160d579ff3bca79ec910aef347cc5" title="AIEasy.getAvailableMoves" alt="" coords="550,69,728,95"/>
+</map>

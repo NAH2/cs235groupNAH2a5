@@ -1,0 +1,4 @@
+<map id="Othello.isAnyValidMove" name="Othello.isAnyValidMove">
+<area shape="rect" id="node2" href="$class_othello.html#ab0d114e24b487a194a61a8f6d4ee6338" title="Othello.isOver" alt="" coords="216,5,322,30"/>
+<area shape="rect" id="node3" href="$class_othello.html#a2b0e9c99d9b99cb43d97206692419bb8" title="Othello.isWinner" alt="" coords="371,5,490,30"/>
+</map>

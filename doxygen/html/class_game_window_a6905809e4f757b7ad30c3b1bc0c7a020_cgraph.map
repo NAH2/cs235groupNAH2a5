@@ -1,0 +1,6 @@
+<map id="GameWindow.restart" name="GameWindow.restart">
+<area shape="rect" id="node2" href="$class_game_window.html#a85de2e8616d617ba29d0ce6dce736f43" title="GameWindow.getDrawing" alt="" coords="200,5,376,30"/>
+<area shape="rect" id="node3" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="225,54,351,79"/>
+<area shape="rect" id="node4" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="225,103,351,129"/>
+<area shape="rect" id="node5" href="$class_game_window.html#ace51f60e7c57a0f24bc5c24c05e8f436" title="GameWindow.getGame" alt="" coords="207,153,369,178"/>
+</map>

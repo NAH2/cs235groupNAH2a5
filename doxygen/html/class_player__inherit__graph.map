@@ -1,0 +1,6 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node2" href="$class_a_i_easy.html" title="This class contains methods to create and run a AI. " alt="" coords="4,81,67,106"/>
+<area shape="rect" id="node3" href="$class_connect_four_a_i.html" title="The AI for ConnectFour to make a move. " alt="" coords="91,81,201,106"/>
+<area shape="rect" id="node4" href="$class_human.html" title="sets which player&#39;s move it is then sends this to the game class " alt="" coords="227,81,291,106"/>
+<area shape="rect" id="node5" href="$class_othello_a_i.html" title="The AI for Othello to make a move. " alt="" coords="315,81,391,106"/>
+</map>

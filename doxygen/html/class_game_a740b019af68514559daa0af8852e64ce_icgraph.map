@@ -1,0 +1,11 @@
+<map id="Game.getWindow" name="Game.getWindow">
+<area shape="rect" id="node2" href="$class_connect_four.html#ade6b753a63b1fd52520fbc434d6e380f" title="ConnectFour.start" alt="" coords="202,5,329,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a5c6dd92d8fc772c9610f0a9dce72964c" title="ConnectFour.resetGame" alt="" coords="182,54,349,79"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="398,155,565,181"/>
+<area shape="rect" id="node5" href="$class_controls.html#a4bb8696977255c699e38b68755392722" title="Controls.main" alt="" coords="214,155,317,181"/>
+<area shape="rect" id="node6" href="$class_game.html#a8a4248909453d1d210764fedcc3e23a0" title="Game.validateMove" alt="" coords="195,205,335,230"/>
+<area shape="rect" id="node7" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="220,254,311,279"/>
+<area shape="rect" id="node8" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="194,303,336,329"/>
+<area shape="rect" id="node9" href="$class_othello.html#a1196eda85897856737995ee39e1c5e33" title="Othello.resetGame" alt="" coords="199,353,332,378"/>
+<area shape="rect" id="node10" href="$class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762" title="Othello.start" alt="" coords="435,353,528,378"/>
+</map>

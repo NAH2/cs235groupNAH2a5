@@ -1,0 +1,13 @@
+<map id="Game.getPlayerTurn" name="Game.getPlayerTurn">
+<area shape="rect" id="node2" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="438,69,605,94"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#af6e043675e602f913a1c7b0eb1468dfd" title="ConnectFour.moveScore" alt="" coords="209,38,378,64"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#a20da939c02af53d725d379f1b6ca4c6d" title="ConnectFour.blockOpponent\lChecker" alt="" coords="198,88,389,126"/>
+<area shape="rect" id="node5" href="$class_connect_four.html#ad2e1e300dcf0633844557c3d07d1402f" title="ConnectFour.nextPlayer" alt="" coords="211,150,376,176"/>
+<area shape="rect" id="node6" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="248,200,339,225"/>
+<area shape="rect" id="node7" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="222,249,364,274"/>
+<area shape="rect" id="node8" href="$class_othello.html#a18f0c872df14c1b01caf7883df844574" title="Othello.availableMove" alt="" coords="217,298,370,324"/>
+<area shape="rect" id="node11" href="$class_othello.html#a5f583d6e9a1b1a10ee8959ddb91b8ee8" title="Othello.checkPassTurn" alt="" coords="442,374,601,400"/>
+<area shape="rect" id="node12" href="$class_othello.html#a467e6ec1ded0faf5af0fc45b85fa31d7" title="Othello.nextPlayer" alt="" coords="228,400,358,425"/>
+<area shape="rect" id="node9" href="$class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762" title="Othello.start" alt="" coords="653,300,747,325"/>
+<area shape="rect" id="node10" href="$class_othello.html#a1196eda85897856737995ee39e1c5e33" title="Othello.resetGame" alt="" coords="455,325,588,350"/>
+</map>

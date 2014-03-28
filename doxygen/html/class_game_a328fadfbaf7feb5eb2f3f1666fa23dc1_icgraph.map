@@ -1,0 +1,6 @@
+<map id="Game.getTimer" name="Game.getTimer">
+<area shape="rect" id="node2" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="169,5,309,30"/>
+<area shape="rect" id="node4" href="$class_othello.html#ab0d114e24b487a194a61a8f6d4ee6338" title="Othello.isOver" alt="" coords="186,54,292,79"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="358,5,525,30"/>
+<area shape="rect" id="node5" href="$class_othello.html#a2b0e9c99d9b99cb43d97206692419bb8" title="Othello.isWinner" alt="" coords="382,54,501,79"/>
+</map>

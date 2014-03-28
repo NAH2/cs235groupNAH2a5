@@ -1,0 +1,5 @@
+<map id="AIEasy.getAvailableMoves" name="AIEasy.getAvailableMoves">
+<area shape="rect" id="node2" href="$class_a_i_easy.html#a540dfbb0d651a054dc8ac244f9d3a4f3" title="AIEasy.setAIMove" alt="" coords="233,5,362,30"/>
+<area shape="rect" id="node3" href="$class_a_i_easy.html#ab3da7fcddf8d8badf8301b209cb99bff" title="AIEasy.sendMove" alt="" coords="411,5,539,30"/>
+<area shape="rect" id="node4" href="$class_a_i_easy.html#a51731031041709ae58de54991ac87d0a" title="AIEasy.isYourMove" alt="" coords="587,5,722,30"/>
+</map>

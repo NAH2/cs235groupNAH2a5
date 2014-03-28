@@ -1,0 +1,5 @@
+<map id="Game.getTurnCount" name="Game.getTurnCount">
+<area shape="rect" id="node2" href="$class_connect_four.html#ac2bc41d2083599b62aead9a8a05f46e8" title="ConnectFour.validMove" alt="" coords="198,5,359,30"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="598,30,765,55"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="409,5,549,30"/>
+</map>

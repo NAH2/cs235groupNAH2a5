@@ -1,0 +1,7 @@
+<map id="FileManager.getTimer" name="FileManager.getTimer">
+<area shape="rect" id="node2" href="$class_loader.html#acfbc6b4372bb87369ff6d5c6c0c07875" title="Loader.loadTimer" alt="" coords="206,65,330,90"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="384,39,490,65"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="380,89,495,114"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="544,5,736,43"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="544,67,736,93"/>
+</map>

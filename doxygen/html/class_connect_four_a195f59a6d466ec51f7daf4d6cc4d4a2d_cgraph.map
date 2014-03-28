@@ -1,0 +1,8 @@
+<map id="ConnectFour.checkWinner" name="ConnectFour.checkWinner">
+<area shape="rect" id="node2" href="$class_connect_four.html#ae1766e8043d779f422dc0b3527bac5b5" title="ConnectFour.checkRight" alt="" coords="260,103,428,129"/>
+<area shape="rect" id="node5" href="$class_connect_four.html#a7b30221d4094ad6ecb29f2a665de27d5" title="ConnectFour.checkDown" alt="" coords="259,153,429,178"/>
+<area shape="rect" id="node6" href="$class_connect_four.html#aacaa49a151c863b1e498a000fa84bea3" title="ConnectFour.checkDiagonalUp" alt="" coords="241,5,447,30"/>
+<area shape="rect" id="node7" href="$class_connect_four.html#aa959e914b7ed1553d77115b733f26666" title="ConnectFour.checkDiagonalDown" alt="" coords="233,54,455,79"/>
+<area shape="rect" id="node3" href="$class_game.html#a8e9aa11c1cad6697e6793426f978786e" title="Game.getGrid" alt="" coords="533,54,638,79"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#afb5c51674c4d781fb526cf42f819e3c5" title="ConnectFour.setWinner" alt="" coords="505,103,666,129"/>
+</map>

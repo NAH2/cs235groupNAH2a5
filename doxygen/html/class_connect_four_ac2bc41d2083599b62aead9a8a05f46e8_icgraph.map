@@ -1,0 +1,4 @@
+<map id="ConnectFour.validMove" name="ConnectFour.validMove">
+<area shape="rect" id="node2" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="217,5,357,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="406,5,573,30"/>
+</map>

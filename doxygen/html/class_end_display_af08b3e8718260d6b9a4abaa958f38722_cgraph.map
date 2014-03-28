@@ -1,0 +1,4 @@
+<map id="EndDisplay.statsPlayer2" name="EndDisplay.statsPlayer2">
+<area shape="rect" id="node2" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="236,5,361,30"/>
+<area shape="rect" id="node3" href="$class_game.html#a4766d5a879b9743f1165a95214e1d8b4" title="Game.getPlayer2Score" alt="" coords="219,54,379,79"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ConnectFour.resetGame" name="ConnectFour.resetGame">
+<area shape="rect" id="node2" href="$class_connect_four.html#afb5c51674c4d781fb526cf42f819e3c5" title="ConnectFour.setWinner" alt="" coords="222,5,383,30"/>
+<area shape="rect" id="node3" href="$class_game.html#aed117408c90e31d9106d99ea0d49391c" title="Game.setPlayerTurn" alt="" coords="231,54,375,79"/>
+<area shape="rect" id="node4" href="$class_game.html#ad902948bff57257886b7c3f7bd81f4b0" title="Game.getPlayer1" alt="" coords="240,103,365,129"/>
+<area shape="rect" id="node5" href="$class_game.html#a740b019af68514559daa0af8852e64ce" title="Game.getWindow" alt="" coords="239,153,366,178"/>
+<area shape="rect" id="node6" href="$class_game.html#ab69c6aa97391bb5fe731d10daa4b2b06" title="Game.getPlayer2" alt="" coords="240,202,365,227"/>
+</map>

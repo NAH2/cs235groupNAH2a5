@@ -1,0 +1,5 @@
+<map id="Game.setWindow" name="Game.setWindow">
+<area shape="rect" id="node2" href="$class_connect_four.html#ade6b753a63b1fd52520fbc434d6e380f" title="ConnectFour.start" alt="" coords="190,5,317,30"/>
+<area shape="rect" id="node3" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="182,54,324,79"/>
+<area shape="rect" id="node4" href="$class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762" title="Othello.start" alt="" coords="207,103,300,129"/>
+</map>

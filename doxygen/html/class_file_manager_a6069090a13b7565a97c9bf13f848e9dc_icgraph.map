@@ -1,0 +1,7 @@
+<map id="FileManager.getPlayer1" name="FileManager.getPlayer1">
+<area shape="rect" id="node2" href="$class_loader.html#a65253f683d05e0cb6cd3c1c30c990c07" title="Loader.loadPlayer1" alt="" coords="216,65,352,90"/>
+<area shape="rect" id="node3" href="$class_loader.html#a7d1e9087a670e5dadf7431ad6a9bbc9e" title="Loader.loadAll" alt="" coords="406,39,512,65"/>
+<area shape="rect" id="node6" href="$class_loader.html#a16cd2778c5e31a88864d6282ee1554ab" title="Loader.loadTest" alt="" coords="401,89,516,114"/>
+<area shape="rect" id="node4" href="$class_connect_four_loader.html#a1d8d859feb1af969874a5d8ad3e47bbf" title="ConnectFourLoader.Connect\lFourLoader" alt="" coords="565,5,758,43"/>
+<area shape="rect" id="node5" href="$class_othello_loader.html#a5d22cd919bf9390eb65db3c72c6a1c88" title="OthelloLoader.OthelloLoader" alt="" coords="565,67,757,93"/>
+</map>

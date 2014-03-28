@@ -1,0 +1,35 @@
+<map id="Game.getGrid" name="Game.getGrid">
+<area shape="rect" id="node2" href="$class_connect_four.html#ad84050b3ab235259d303fd239c3c3eba" title="ConnectFour.isValidMove" alt="" coords="186,5,358,30"/>
+<area shape="rect" id="node3" href="$class_connect_four.html#a172a714fc7e87afc9439df5b75a08dd5" title="ConnectFour.moveMade" alt="" coords="883,106,1050,131"/>
+<area shape="rect" id="node4" href="$class_connect_four.html#a44f71c4bc0d795274d1b85152fc53215" title="ConnectFour.takeMove" alt="" coords="674,106,833,131"/>
+<area shape="rect" id="node5" href="$class_connect_four.html#ae1766e8043d779f422dc0b3527bac5b5" title="ConnectFour.checkRight" alt="" coords="188,206,356,231"/>
+<area shape="rect" id="node8" href="$class_connect_four.html#a17b3f5b6705ef91ef9e31f6a7a7a0622" title="ConnectFour.countRight" alt="" coords="189,551,355,577"/>
+<area shape="rect" id="node11" href="$class_connect_four.html#a9bcdca0eb37f86975129c38edca756d6" title="ConnectFour.countLeft" alt="" coords="194,354,350,379"/>
+<area shape="rect" id="node12" href="$class_connect_four.html#a7b30221d4094ad6ecb29f2a665de27d5" title="ConnectFour.checkDown" alt="" coords="187,255,357,281"/>
+<area shape="rect" id="node13" href="$class_connect_four.html#aaab9fa44dc9041911a1a4e185160e261" title="ConnectFour.countDown" alt="" coords="188,403,356,429"/>
+<area shape="rect" id="node14" href="$class_connect_four.html#a93492b5f9537ece6801407b4fa8b919e" title="ConnectFour.countDiagonalDown" alt="" coords="162,453,382,478"/>
+<area shape="rect" id="node15" href="$class_connect_four.html#aa959e914b7ed1553d77115b733f26666" title="ConnectFour.checkDiagonalDown" alt="" coords="161,305,383,330"/>
+<area shape="rect" id="node16" href="$class_connect_four.html#aacaa49a151c863b1e498a000fa84bea3" title="ConnectFour.checkDiagonalUp" alt="" coords="169,157,375,182"/>
+<area shape="rect" id="node17" href="$class_connect_four.html#ad99b174b91c9b992ef25c586311969d0" title="ConnectFour.countDiagonalUp" alt="" coords="170,502,374,527"/>
+<area shape="rect" id="node18" href="$class_drawing.html#af56f382d829fc3b44f09267f667b79e6" title="Drawing.Drawing" alt="" coords="211,601,333,626"/>
+<area shape="rect" id="node20" href="$class_game.html#a0a2c62570275204b7144f26f8cd133f2" title="Game.setScores" alt="" coords="212,650,332,675"/>
+<area shape="rect" id="node22" href="$class_game.html#a6631ef784391b33e51f5650d2a135df0" title="Game.reset" alt="" coords="227,699,317,725"/>
+<area shape="rect" id="node23" href="$class_othello.html#a18f0c872df14c1b01caf7883df844574" title="Othello.availableMove" alt="" coords="677,751,830,777"/>
+<area shape="rect" id="node26" href="$class_othello.html#a5f583d6e9a1b1a10ee8959ddb91b8ee8" title="Othello.checkPassTurn" alt="" coords="193,1003,351,1029"/>
+<area shape="rect" id="node27" href="$class_othello.html#aab434fb21cd96f00f9813bb0526616be" title="Othello.isValidMove" alt="" coords="459,802,597,827"/>
+<area shape="rect" id="node29" href="$class_othello.html#ab0d114e24b487a194a61a8f6d4ee6338" title="Othello.isOver" alt="" coords="914,914,1020,939"/>
+<area shape="rect" id="node32" href="$class_othello.html#a6d766156bbde4a602770fac98ab8761e" title="Othello.checkBound" alt="" coords="202,851,342,877"/>
+<area shape="rect" id="node33" href="$class_othello.html#ac2f11a1335a92f858ccb00909c17c4a0" title="Othello.take" alt="" coords="482,902,574,927"/>
+<area shape="rect" id="node6" href="$class_connect_four.html#a195f59a6d466ec51f7daf4d6cc4d4a2d" title="ConnectFour.checkWinner" alt="" coords="439,206,617,231"/>
+<area shape="rect" id="node7" href="$class_connect_four.html#a72ae78e4dbdf966e210a8d002eb0677c" title="ConnectFour.isOver" alt="" coords="683,181,823,206"/>
+<area shape="rect" id="node9" href="$class_connect_four.html#af6e043675e602f913a1c7b0eb1468dfd" title="ConnectFour.moveScore" alt="" coords="444,481,612,506"/>
+<area shape="rect" id="node10" href="$class_connect_four.html#a20da939c02af53d725d379f1b6ca4c6d" title="ConnectFour.blockOpponent\lChecker" alt="" coords="432,418,624,457"/>
+<area shape="rect" id="node19" href="$class_drawing.html#a0379e6bcdb0b9eadfbf886b391841d9f" title="Drawing.main" alt="" coords="477,601,579,626"/>
+<area shape="rect" id="node21" href="$class_game.html#a3428991d4a13392c43791c33ec28c53d" title="Game.resumeGame" alt="" coords="457,650,599,675"/>
+<area shape="rect" id="node24" href="$class_othello.html#ae7b7840fe3e9f21f7c83db7e923ce762" title="Othello.start" alt="" coords="1112,751,1205,777"/>
+<area shape="rect" id="node25" href="$class_othello.html#a1196eda85897856737995ee39e1c5e33" title="Othello.resetGame" alt="" coords="900,777,1033,802"/>
+<area shape="rect" id="node28" href="$class_othello.html#aa7c43e571f3296a5a879aa5d3f5e67c8" title="Othello.isAnyValidMove" alt="" coords="673,853,834,878"/>
+<area shape="rect" id="node31" href="$class_othello.html#a400854360eda124389fea9b26d33cdc5" title="Othello.moveScore" alt="" coords="899,839,1034,865"/>
+<area shape="rect" id="node30" href="$class_othello.html#a2b0e9c99d9b99cb43d97206692419bb8" title="Othello.isWinner" alt="" coords="1099,914,1218,939"/>
+<area shape="rect" id="node34" href="$class_othello.html#ad91f69abfba0e4eec9f53640b6f7b464" title="Othello.takeMove" alt="" coords="691,902,816,927"/>
+</map>

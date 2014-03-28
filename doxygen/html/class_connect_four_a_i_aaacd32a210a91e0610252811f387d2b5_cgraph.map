@@ -1,0 +1,4 @@
+<map id="ConnectFourAI.getAvailableMoves" name="ConnectFourAI.getAvailableMoves">
+<area shape="rect" id="node2" href="$class_player.html#a44a92a86c17460a7732d4b0ff40b3dcd" title="Player.getYourTurn" alt="" coords="241,5,375,30"/>
+<area shape="rect" id="node3" href="$class_player.html#a08580623035eedb19e8b7a028ad64914" title="Player.getGame" alt="" coords="250,54,366,79"/>
+</map>

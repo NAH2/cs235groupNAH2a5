@@ -1,0 +1,7 @@
+<map id="Drawing.getPlayer1Piece" name="Drawing.getPlayer1Piece">
+<area shape="rect" id="node2" href="$class_drawing.html#a5b39b4507f3192648816c1dfdc89f4cd" title="Drawing.setPlayer1" alt="" coords="234,5,371,30"/>
+<area shape="rect" id="node5" href="$class_drawing.html#aa1e2c666ed6e8e888b0d9998d82e3bb2" title="Drawing.setPlayerTurn" alt="" coords="224,54,381,79"/>
+<area shape="rect" id="node6" href="$class_drawing.html#a3df9e1c4f0059fc6f5b6cfb763ca6557" title="Drawing.setLayout" alt="" coords="237,103,369,129"/>
+<area shape="rect" id="node3" href="$class_drawing.html#af56f382d829fc3b44f09267f667b79e6" title="Drawing.Drawing" alt="" coords="429,54,552,79"/>
+<area shape="rect" id="node4" href="$class_drawing.html#a0379e6bcdb0b9eadfbf886b391841d9f" title="Drawing.main" alt="" coords="601,54,703,79"/>
+</map>
