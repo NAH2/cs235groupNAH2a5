@@ -1,0 +1,74 @@
+Group NAH2 Minutes of Meeting:
+
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 18 March 2014
+Start time: 14:00
+End time: 15:30
+
+Date and Time of next meeting: 21 March 2014, 10:00
+
+
+Topics discussed:
+-- Gavin was missing due to a dentist appointment, which he had told us about in advance, we knew what he was currently working on so we assigned work around that.
+-- Created an action list on what was needed to be done for A5, and assigned different group members to each task.
+-- How to implement the AI.
+-- This is the action list we created:
+				
+				* Merge GUI and coordinate (So)
+
+				* Implement pass, timer, valid moves (tom)
+
+				* Move checker (Othello) (so)
+
+				* Menu options on the JFrame (jake)
+
+				* Easy/Hard AI implementation (matt/tyrone)
+			
+				* Animation (Jason)
+
+				* Winning piece mark (Jason)
+
+				* New Game button (Jake)
+
+				* Make feedback clearer(player turns etc) (Jason)
+
+				* Starting position (So)
+
+				* Forcing black to go first in Othello (So)
+
+				* Make board bigger (Gavin)
+
+				* Fix window size (Jake)
+
+				* End game scenario (Othello) (So)
+
+				* Merge new game and selection class (Matt)
+
+				* Change the starting class dialogue (Tom)
+
+				* Load and save (Gavin)
+
+
+
+
+
+ 
+Progress since last meeting:
+-- The load and save function is nearly complete.
+-- We fixed an error where two players could select white, even in Connect Four.
+ 
+
+TODO (for next meeting):
+-- Gavin: Complete Load and Save feature, and to make the board bigger.
+-- Tyrone: Begin implementing the AI features for A5.
+-- Chak: Begin implementing features in connectFour, such as making feedback clearer, the animation and highlighting the winning pieces.
+-- Thomas: Begin implementation of the missing features such as a pass button, a timer and valid moves. Also to change the starting class dialogue.
+-- Mathew: Begin implementing the AI features for A5.
+-- Jake: Begin by implementing menu options to the JFrame, adding a new game button and to fix the window size.
+-- Chun: To begin fixing and adding some features to Othello, such as making black go first, the end game scenario and the starting position.

@@ -1,0 +1,39 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 26 March 2014
+Start time: 10:00
+End time: 14:00
+
+Date and Time of next meeting: 27 March 2014, 11:00
+
+
+Topics discussed:
+—- Tyrone to do screen capture of the two games again since he did it well last time.
+—- All individually assigned tasks are now completed. 
+—- The tests required for all of the new classes created.
+—- The completion of the group report.  
+ 
+Progress since last meeting:
+—- Tyrone and Mathew have now both completed all classes required for the AI’s in both games.
+—- All minutes have been checked and the game window sizes are now unavailable for the user to resize. This was done by Jake
+—-There is now a fully functioning pass turn feature in Othello created by Thomas so that the game can now be played to completion even if a player cannot make a move. When the players turn is passed over a message box is displayed just to inform the players.
+—- Gavin has now completed test classes for all classes that are required to save and load the two games. Also Gavin has created a larger game board which is now easier to see and play.
+—- Chak has now created a drop down list in the game window of connect four for the user to choose which background they prefer for the game. Also there has been a slider implemented to select the speed of the falling pieces.
+—- Chun has implemented similar features to the game of Othello so there are different backgrounds that the user can select and they can also use a slider to select the speed that the counters flip.
+ 
+
+TODO (for next meeting):
+—-All to write a paragraph on how each member has contributed to the assignment for the group report.
+—-Tyrone to complete a screen capture demo showing the running of both games.
+—-Mathew and Tyrone to complete test cases for all AI classes
+—-Thomas to thoroughly test the counter class
+—-Jake and Gavin to finish off the group report.
+—-Chak and Chun to test all of the animations they have produced for connect four and Othello  

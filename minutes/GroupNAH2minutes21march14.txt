@@ -1,0 +1,42 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 21 March 2014
+Start time: 10:00
+End time: 11:00
+
+Date and Time of next meeting: 26 March 2014, 10:00
+
+
+Topics discussed:
+—-The progress of each team member with the tasks that they had been assigned in the previous meeting.
+—-Decided that the game window would look more professional to replace the new game button which we were going to add to the games side bar and add a new game button to the menu bar instead.
+—- Clarified with Chak Yan Lam what animation that we wanted to include in each of the games. 
+—-Came to the decision that we should not actually merge the classes GUI.java and coordinate.java
+
+ 
+Progress since last meeting:
+—- Save and load functions have now been completed by Gavin
+—- Steady progress is being made with both AI’s by Tyrone and Mathew. Easy AI has been completed and hard AI still remains. 
+—- JMenu has now been implemented and is near to be fully functioning by Jake.
+—- The starting class for both games has now been changed to ChooseGame.java and Dialog.java has been deleted. Also a timer feature has been implemented so it can be seen whilst playing both games. All of this was completed by Thomas. 
+—- Chun has implemented available move in Othello and fixed all features meaning that now black always go first.
+—- Chak developed a feature which highlights the winning pieces with stars when the game is finished. Also Chak has added animation so that when a position is selected the piece will drop down from the top of the board.  
+
+ 
+
+TODO (for next meeting):
+-- Gavin: To make the game boards are bigger and to begin testing of the save and load classes.
+-- Tyrone: Continue implementing the hard AI features for A5.
+-- Chak: Continue implementing features in connectFour, such as making feedback clearer.
+-- Thomas: Implement a pass turn feature.
+-- Mathew: Continue implementing the hard AI features for A5.
+-- Jake: To fix the window size and to ensure that the minutes are formatted correctly.
+-- Chun: To fix the end game scenario.

@@ -1,0 +1,36 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 17 March 2014
+Start time: 14:00
+End time: 15:00
+
+Date and Time of next meeting: 18 March 2014, 14:00
+
+
+Topics discussed:
+-- What parts of the code can be changed and if we can reimplement some classes, We have e-mailed our customer (Bob) to clarify on this matter.
+-- Discussed which features are missing from the project handed to us by NAH1 group, and discussed how we can add them.
+-- Discussed the NAH1 groups hierarchy, and what we thought was wrong with it.
+-- Discussed the load and save functions for assignment 5.
+ 
+
+Progress since last meeting:
+-- Finalised the A4 design report and handed it in.
+-- All team members have read and understand what is expected for Assignment 5.
+
+TODO (for next meeting):
+-- Gavin: Analysis of NAH1 code to find the best way to implement load and save.
+-- Tyrone: Analysis of NAH1 code to find the best way to implement further user feedback as required. 
+-- Chak: Analysis of NAH1 code to find the best way to implement further user feedback as required. 
+-- Thomas: Analysis of NAH1 code to fix problems identified in A4. 
+-- Mathew: Analysis of NAH1 code to find the best way to correct the project setup.
+-- Jake: Analysis of NAH1 code to fix problems identified in A4.
+-- Chun: Analysis of NAH1 code to find the best way to correct the project setup.

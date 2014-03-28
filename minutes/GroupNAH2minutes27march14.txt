@@ -1,0 +1,31 @@
+Group NAH2 Minutes of Meeting:
+
+GAVIN BAILEY
+TYRONE LEE BRAMWELL
+CHAK YAN LAM
+THOMAS LETHEBY
+MATHEW JAMES LLOYD
+JAKE DARYL PLUMLEY
+CHUN KIT SO
+------------------------------------
+Date: 27 March 2014
+Start time: 11:00
+End time: 15:00
+
+Date and Time of next meeting: N/A
+
+
+Topics discussed:
+—- Thorough checking of all source code, commenting and documentation. 
+—- Ensuring all required files are submitted and in the correct format.  
+
+Progress since last meeting:
+—- Tyrone has completed the screen capture video showing the running of both games.
+—- The group report is now complete explaining the new features that the group has implemented. 
+-— Doxygen manager Thomas has checked through the source codes comments and is happy with them all. 
+—- Mathew has checked the minutes as quality manager and after some slight changes all the minutes are now fine.
+—- Chak checked through code to ensure that all code follows bobs coding conventions.
+—- Tyrone has checked that there are enough test cases to test all of the new features implemented. 
+ 
+
+TODO (for next meeting): N/A
